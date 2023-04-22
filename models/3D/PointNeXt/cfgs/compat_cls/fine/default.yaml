@@ -1,0 +1,72 @@
+dataset:
+  common:
+    NAME: coarse
+    data_root: /home/ahmems0a/repos/data/fine_grained
+    num_points: 2048
+  train:
+    split: train
+  val:
+    split: valid
+    presample: True
+
+num_classes: 42
+num_points: 2048
+feature_keys: pos
+datatransforms:
+  train: [PointsToTensor, PointCloudScaling,PointCloudCenterAndNormalize,PointCloudJitter]
+  val: [PointsToTensor, PointCloudCenterAndNormalize]
+  vote: [PointCloudScaling]
+  kwargs:
+    jitter_sigma: 0.001
+    jitter_clip: 0.005
+    scale: [0.8, 1.2]
+    gravity_dim: 1
+    angle: [0, 1.0, 0]
+
+batch_size: 32
+dataloader:
+  num_workers: 6
+
+# ---------------------------------------------------------------------------- #
+# Evaluation cfgs
+# ---------------------------------------------------------------------------- #
+num_votes: 10 
+refine: True 
+
+# ---------------------------------------------------------------------------- #
+# Training cfgs
+# ---------------------------------------------------------------------------- #
+
+# lr_scheduler:
+lr: 0.001
+min_lr: null
+optimizer:
+  NAME: adamw
+  weight_decay: 0.05  # the best 
+
+criterion_args:
+  NAME: SmoothCrossEntropy
+  label_smoothing: 0.2
+
+# scheduler
+epochs: 300
+sched: cosine
+warmup_epochs: 0
+min_lr: null
+
+sched_on_epoch: True
+
+grad_norm_clip: 1
+use_voting: False
+
+# ---------------------------------------------------------------------------- #
+# io and misc
+# ---------------------------------------------------------------------------- #
+print_freq: 10
+val_freq: 1
+
+# ----------------- Model related
+pretrained_path: /home/ahmems0a/repos/PointNeXt/log/fine/fine-traincls-pointnext-s-2048/checkpoint/best_model.pth
+
+wandb:
+  project: PointNext-compat_fine_cls

@@ -1,0 +1,52 @@
+RANDOM_SEED: 2
+DATASET:
+    NAME: ScanObjectNN
+    DIRSPLIT: main # For ScanObjectNN, can be {main, supplementary, all}
+    AUGSPLIT: PB_T50_RS # For ScanObjectNN, can be {OBJ_ONLY, PB_T25, PB_T25_R, PB_T50_R, PB_T50_RS}
+    NUM_CLASS: 15
+    NUM_POINTS: 1024
+    IS_SEGMENTATION: False
+    USE_AUG_JIT: False
+    USE_AUG_ROT: True
+    USE_AUG_TRANS: True
+    USE_RANDOM_SHUFFLE: True
+    LIMIT_TO_MODELNET40: False
+
+NETWORK:
+    NAME: PointStack
+
+    ENCODER:
+        NAME: PointStackCls
+
+        NUM_POINTS: 1024
+        EMBED_DIM: 64
+        GROUPS: 1
+        RES_EXP: 1.0
+
+        DIM_EXP: [2, 2, 2, 2]
+        PRE_BLOCKS: [2, 2, 2, 2]
+        POS_BLOCKS: [2, 2, 2, 2]
+        K_NEIGHBORS: [24, 24, 24, 24]
+        REDUCERS: [2, 2, 2, 2]
+
+    HEAD:
+        CLASSIFIER:
+            NAME: LinearClassifier
+            IN_CHANNELS: [4096]
+            ACT: relu
+            DIMS: [1024, 512, 256]
+
+OPTIMIZER:
+    NAME: SGD
+    MAX_EPOCH: 200
+    BATCH_SIZE: 48
+    GRAD_ACCUMULATION: 1
+    GRAD_CLIP: 100
+    LR: 0.01
+    MIN_LR: 0.0001
+    MOMENTUM: 0.9
+    NESTEROV: True
+    WEIGHT_DECAY: 0.0005
+    BETAS: [0.9, 0.999] # For Adam
+    SCHEDULER: cosine_annealing
+    WARM_RESTART_EVERY: 200

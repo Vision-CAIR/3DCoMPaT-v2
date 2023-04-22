@@ -1,0 +1,13 @@
+cycler==0.10.0
+einops==0.3.0
+h5py==3.2.1
+matplotlib==3.4.2
+numpy>=1.21
+pyyaml==5.4.1
+scikit-learn==0.24.2
+scipy==1.6.3
+tqdm==4.61.1
+open3d-python
+easydict
+tensorboard
+pointnet2_ops_lib/.
