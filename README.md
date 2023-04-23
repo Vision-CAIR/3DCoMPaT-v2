@@ -107,7 +107,7 @@ If you use our dataset, please cite the two following references:
     title={3DCoMPaT++: An improved Large-scale 3D Vision Dataset
     for Compositional Recognition},
     author={Habib Slim, Xiang Li, Yuchen Li,
-    Mahmoud Mahmed, Mohamed Ayman, Ujjwal Upadhyay
+    Mahmoud Ahmed, Mohamed Ayman, Ujjwal Upadhyay
     Ahmed Abdelreheem, Arpit Prajapati,
     Suhail Pothigara, Peter Wonka, Mohamed Elhoseiny}
     year={2023}
