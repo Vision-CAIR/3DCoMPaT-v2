@@ -109,7 +109,7 @@ If you use our dataset, please cite the two following references:
     author={Habib Slim, Xiang Li, Yuchen Li,
     Mahmoud Ahmed, Mohamed Ayman, Ujjwal Upadhyay
     Ahmed Abdelreheem, Arpit Prajapati,
-    Suhail Pothigara, Peter Wonka, Mohamed Elhoseiny}
+    Suhail Pothigara, Peter Wonka, Mohamed Elhoseiny},
     year={2023}
 }
 ```
