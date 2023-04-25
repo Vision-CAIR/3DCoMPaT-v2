@@ -10,6 +10,8 @@
 
 [![Jupyter Quickstart](https://img.shields.io/badge/Quickstart-orange?logo=google-colab&logoWidth=15)](https://colab.research.google.com/drive/1OpgYL_cxekAqZF8B8zuQZkPQxUIxzV0K?usp=sharing)
 [![Documentation](https://img.shields.io/badge/📚%20Documentation-blue?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/doc/)
+[![Download](https://img.shields.io/badge/📦%20Download-grey?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/doc/)
+
 [![Website](https://img.shields.io/badge/🌐%20Website-green?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/)
 [![Workshop](https://img.shields.io/badge/🔨%20Workshop-purple?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/workshop/)
 [![Challenge](https://img.shields.io/badge/🏆%20Challenge-critical?logoColor=white&logoWidth=20)](https://eval.ai/web/challenges/challenge-page/2031)
