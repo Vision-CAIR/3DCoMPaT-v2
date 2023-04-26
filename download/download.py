@@ -101,22 +101,24 @@ def parse_args(argv):
         assert args.n_comp is None
         assert args.start_comp is None
 
-    # Check that at least one of n-comp, or start-comp and end-comp are set
-    assert args.n_comp is not None or (
-        args.start_comp is not None and args.end_comp is not None
-    )
+        args.split = ""
+    else:
+        # Check that at least one of n-comp, or start-comp and end-comp are set
+        assert args.n_comp is not None or (
+            args.start_comp is not None and args.end_comp is not None
+        )
 
-    # If n-comp is set, override start_comp and end_comp
-    if args.n_comp is not None:
-        if args.start_comp is not None or args.end_comp is not None:
-            print("Overriding start_comp and end_comp with n_comp=%s" % args.n_comp)
-        args.start_comp = 0
-        args.end_comp = int(args.n_comp[-3:]) - 1
+        # If n-comp is set, override start_comp and end_comp
+        if args.n_comp is not None:
+            if args.start_comp is not None or args.end_comp is not None:
+                print("Overriding start_comp and end_comp with n_comp=%s" % args.n_comp)
+            args.start_comp = 0
+            args.end_comp = int(args.n_comp[-3:]) - 1
 
-    # Range checks
-    assert args.start_comp <= args.end_comp
-    assert args.start_comp >= 0
-    assert args.end_comp < MAX_COMPS
+        # Range checks
+        assert args.start_comp <= args.end_comp
+        assert args.start_comp >= 0
+        assert args.end_comp < MAX_COMPS
 
     # Creating output directory
     out_dir = os.path.join(args.outdir, args.split)
