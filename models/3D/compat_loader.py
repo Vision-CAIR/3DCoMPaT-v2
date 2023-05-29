@@ -54,7 +54,7 @@ class CompatLoader3D(Dataset):
 
     def __init__(
         self,
-        data_root="data/compat",
+        data_root,
         split="train",
         num_points=4096,
         transform=None,

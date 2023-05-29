@@ -11,5 +11,4 @@
 
 conda activate openpoints
 
-
 python examples/compat_cls/main.py --cfg cfgs/compat_cls/fine/pointnext-s.yaml npoints=2048 timing=True flops=True --data_name fine

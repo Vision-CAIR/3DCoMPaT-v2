@@ -16,7 +16,7 @@ You can find the pretrained models and log files in [gdrive](https://drive.googl
 | PCT                   | 2048             | 70.49    | 81.31            | 49.09               | [gdrive](https://drive.google.com/file/d/14naxFZiANc2USB7Dx-8mld9TK1XnXJgC/view?usp=share_link) |
 | PointNet2 partseg_ssg | 2048             | 71.09    | 80.01            | 50.39               | [gdrive](https://drive.google.com/file/d/1_dPGJU1n4Q4pzm6ZxSw0W5zYKlP5mOcL/view?usp=share_link) |
 | Curvenet              | 2048             | 72.49    | 81.37            | 53.09               | [gdrive](https://drive.google.com/file/d/1rmGNvb2uXPLqSDtOU7wGiz9Q_4nozd1D/view?usp=share_link) |
-| PointNeXt             | 2048             | 94.17    | 86.80            | 85.45               | [gdrive](https://drive.google.com/file/d/1ABNbcde2gMu0IU6Eub3BXkNr2HHvHFqN/view?usp=share_link) |
+| PointNeXt             | 2048             | 82.07    | 83.92            | 63.72               | [gdrive](https://drive.google.com/file/d/1ABNbcde2gMu0IU6Eub3BXkNr2HHvHFqN/view?usp=share_link) |
 
 #### **Coarse-grained**
 
@@ -25,7 +25,7 @@ You can find the pretrained models and log files in [gdrive](https://drive.googl
 | PCT                   | 2048             | 80.64    | 75.48            | 66.95               | [gdrive](https://drive.google.com/file/d/1xvQ_kQv5lGHMddL4ulhUnXQlHuHRAgaQ/view?usp=share_link) |
 | PointNet2 partseg_ssg | 2048             | 84.72    | 77.98            | 73.79               | [gdrive](https://drive.google.com/file/d/1HrwGvEr3RUq2KNKZCdPhho1y-krTmwwt/view?usp=share_link) |
 | Curvenet              | 2048             | 86.01    | 80.64            | 76.32               | [gdrive](https://drive.google.com/file/d/1Q6yhwFemwIVcy1RivSIXJ0z_8Fz986I0/view?usp=share_link) |
-| PointNeXt             | 2048             | 82.07    | 83.92            | 63.72               | [gdrive](https://drive.google.com/file/d/174EHOftBhupCRI3p-vRjQayB4Z_Z1rGG/view?usp=share_link) |
+| PointNeXt             | 2048             | 94.17    | 86.80            | 85.45               | [gdrive](https://drive.google.com/file/d/174EHOftBhupCRI3p-vRjQayB4Z_Z1rGG/view?usp=share_link) |
 
 ### **Classification**
 
