@@ -167,8 +167,8 @@ def download(args):
         )
 
         file_append = ""
-        if args.split == "test":
-            file_append = "_no_gt"
+        #if args.split == "test":
+        #    file_append = "_no_gt"
 
         # Create a timer
         start_time = time.time()
@@ -211,8 +211,8 @@ def download(args):
         # Downloading each shard
         for k in tqdm.tqdm(range(args.start_comp, args.end_comp + 1)):
             split_name = args.split
-            if split_name == "test":
-                split_name = "test_no_gt"
+            #if split_name == "test":
+            #    split_name = "test_no_gt"
             tar_file = "%s/%s_%s_%04d.tar" % (
                 split_name,
                 args.split,

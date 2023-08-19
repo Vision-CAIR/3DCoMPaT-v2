@@ -17,6 +17,12 @@
 
 </div>
 
+## 📰 News
+
+- **19/08/2023**: As our CVPR23 challenge has finished (congratulations to [Cattalyya Nuengsikapian](https://3dcompat-dataset.org/workshop/#main-section)!), our test set has now been made public. Dataloaders have been updated in consequence: using the "`EvalLoader`" classes is not necessary anymore 😊
+
+- **18/06/2023**: The 3DCoMPaT++ CVPR23 challenge has been concluded. We would like to congratulate [Cattalyya Nuengsikapian](https://3dcompat-dataset.org/workshop/#main-section), winner of both **coarse** and **fine-grained** tracks for her excellent performance in our challenge 🎉
+
 ## Summary
 
 - [Introduction](#📚-introduction)

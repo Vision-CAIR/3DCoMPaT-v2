@@ -93,7 +93,8 @@ class CompatLoader3D_PC(Dataset):
     ):
         if split not in ["train", "valid", "test"]:
             raise ValueError("Invalid split: {}".format(split))
-        file_suffix = "_no_gt" if split == "test" else ""
+        #file_suffix = "_no_gt" if split == "test" else ""
+        file_suffix = ""
         hdf5_path = os.path.join(
             root_dir, "%s_%s.hdf5" % (split, semantic_level + file_suffix)
         )
