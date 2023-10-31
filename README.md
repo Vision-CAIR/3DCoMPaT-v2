@@ -8,6 +8,7 @@
     3DCoMPaT++: An improved Large-scale 3D Vision Dataset for Compositional Recognition
 </h1>
 
+[![PAper](https://img.shields.io/badge/Paper-red?logo=arxiv&logoWidth=15)](https://arxiv.org/abs/2310.18511)
 [![Jupyter Quickstart](https://img.shields.io/badge/Quickstart-orange?logo=google-colab&logoWidth=15)](https://colab.research.google.com/drive/1OpgYL_cxekAqZF8B8zuQZkPQxUIxzV0K?usp=sharing)
 [![Documentation](https://img.shields.io/badge/📚%20Documentation-blue?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/doc/)
 [![Download](https://img.shields.io/badge/📦%20Download-grey?logoColor=white&logoWidth=20)](https://3dcompat-dataset.org/doc/dl-dataset.html)
