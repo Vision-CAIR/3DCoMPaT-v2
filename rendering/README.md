@@ -1,5 +1,4 @@
 ## 📸 Rendering
 
-```{note}
-This page is a work in progress, please come back later 🙏
-```
+We provide in this folder code to render the 3D models of the dataset. The code is written in Python and uses the `bpy` blender library to render the 3D models. 
+Various scripts are provided to render the 3D models in the `styles` folder.
