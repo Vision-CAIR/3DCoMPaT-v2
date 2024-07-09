@@ -1,6 +1,7 @@
 """
 Writing and manipulating 2D image masks.
 """
+
 import cv2
 import numpy as np
 

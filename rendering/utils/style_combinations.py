@@ -1,6 +1,7 @@
 """
 Utility functions to compute model style combinations.
 """
+
 import math
 import random
 

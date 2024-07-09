@@ -1,6 +1,7 @@
 """
 Defining semantic levels for the 3D models.
 """
+
 import enum
 import json
 import os

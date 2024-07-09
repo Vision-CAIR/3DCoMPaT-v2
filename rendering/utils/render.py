@@ -1,6 +1,7 @@
 """
 General rendering utilities.
 """
+
 import enum
 from collections import defaultdict
 from math import radians

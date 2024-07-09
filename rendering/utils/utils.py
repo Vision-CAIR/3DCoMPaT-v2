@@ -1,6 +1,7 @@
 """
 General utilities.
 """
+
 import base64
 import json
 import os
@@ -59,9 +60,9 @@ def merge_gltf(gltf_file_name, bin_file_name):
         bin = f.read()
 
     # Write back to GLTF
-    gltf["buffers"][0][
-        "uri"
-    ] = "data:application/octet-stream;base64," + base64.b64encode(bin).decode("utf-8")
+    gltf["buffers"][0]["uri"] = (
+        "data:application/octet-stream;base64," + base64.b64encode(bin).decode("utf-8")
+    )
     with open(gltf_file_name, "w") as f:
         json.dump(gltf, f)
 
