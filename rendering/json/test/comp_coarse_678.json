@@ -1,0 +1,6359 @@
+{
+    "00_000__678": {
+        "body": "metal_40",
+        "airplane_engine": "metal_36",
+        "wheel": "plastic_01"
+    },
+    "00_002__678": {
+        "body": "metal_23",
+        "airplane_engine": "metal_55",
+        "wheel": "plastic_19"
+    },
+    "00_006__678": {
+        "body": "metal_58",
+        "airplane_engine": "metal_50",
+        "wheel": "plastic_03"
+    },
+    "00_00d__678": {
+        "body": "metal_53",
+        "airplane_engine": "metal_47",
+        "wheel": "plastic_14"
+    },
+    "00_011__678": {
+        "body": "metal_35",
+        "airplane_engine": "metal_43",
+        "wheel": "plastic_04"
+    },
+    "00_018__678": {
+        "body": "metal_35",
+        "airplane_engine": "metal_52",
+        "wheel": "plastic_13"
+    },
+    "00_01b__678": {
+        "body": "metal_61",
+        "airplane_engine": "metal_60",
+        "wheel": "plastic_04"
+    },
+    "01_001__678": {
+        "body": "fabric_25",
+        "handle": "plastic_18"
+    },
+    "01_00f__678": {
+        "body": "fabric_25",
+        "handle": "plastic_05"
+    },
+    "01_012__678": {
+        "body": "leather_14",
+        "handle": "fabric_28"
+    },
+    "01_014__678": {
+        "body": "leather_23",
+        "handle": "plastic_13"
+    },
+    "01_018__678": {
+        "body": "leather_29",
+        "handle": "plastic_03"
+    },
+    "01_021__678": {
+        "body": "fabric_03",
+        "handle": "fabric_09"
+    },
+    "01_02d__678": {
+        "body": "leather_03",
+        "handle": "fabric_28"
+    },
+    "01_031__678": {
+        "body": "leather_23",
+        "handle": "fabric_28"
+    },
+    "01_034__678": {
+        "body": "fabric_05",
+        "handle": "plastic_18"
+    },
+    "01_037__678": {
+        "body": "leather_10",
+        "handle": "plastic_19"
+    },
+    "01_03d__678": {
+        "body": "fabric_17",
+        "handle": "plastic_20"
+    },
+    "01_04b__678": {
+        "body": "fabric_13",
+        "handle": "plastic_04"
+    },
+    "01_050__678": {
+        "body": "fabric_29",
+        "handle": "plastic_09"
+    },
+    "01_052__678": {
+        "body": "fabric_21",
+        "handle": "plastic_01",
+        "wheel": "plastic_10"
+    },
+    "01_05f__678": {
+        "body": "fabric_20",
+        "handle": "plastic_09",
+        "wheel": "plastic_00"
+    },
+    "01_060__678": {
+        "body": "leather_27",
+        "handle": "plastic_08"
+    },
+    "01_062__678": {
+        "body": "fabric_19",
+        "handle": "plastic_14"
+    },
+    "01_063__678": {
+        "body": "leather_09",
+        "handle": "fabric_15"
+    },
+    "01_06a__678": {
+        "body": "fabric_10",
+        "handle": "plastic_07"
+    },
+    "01_06b__678": {
+        "body": "leather_14",
+        "handle": "plastic_18"
+    },
+    "01_06f__678": {
+        "body": "leather_23",
+        "handle": "plastic_09"
+    },
+    "01_072__678": {
+        "body": "leather_07",
+        "handle": "plastic_03",
+        "wheel": "plastic_20"
+    },
+    "01_073__678": {
+        "body": "fabric_19",
+        "handle": "plastic_08",
+        "wheel": "plastic_10"
+    },
+    "01_075__678": {
+        "body": "leather_15",
+        "handle": "plastic_20"
+    },
+    "01_085__678": {
+        "body": "fabric_13",
+        "handle": "plastic_07"
+    },
+    "01_087__678": {
+        "body": "leather_17",
+        "handle": "plastic_18"
+    },
+    "01_092__678": {
+        "body": "leather_05",
+        "handle": "metal_47"
+    },
+    "01_093__678": {
+        "body": "fabric_05",
+        "handle": "fabric_23"
+    },
+    "02_008__678": {
+        "body": "wood_17",
+        "lid": "metal_48",
+        "handle": "metal_60"
+    },
+    "02_00f__678": {
+        "body": "wood_37",
+        "handle": "plastic_20"
+    },
+    "02_029__678": {
+        "body": "plastic_02",
+        "handle": "metal_28"
+    },
+    "02_039__678": {
+        "body": "metal_29",
+        "handle": "plastic_08"
+    },
+    "02_03a__678": {
+        "body": "plastic_00",
+        "handle": "plastic_03"
+    },
+    "02_03e__678": {
+        "body": "wood_18",
+        "handle": "plastic_04"
+    },
+    "02_03f__678": {
+        "body": "wood_01",
+        "handle": "metal_11"
+    },
+    "02_041__678": {
+        "body": "wood_47",
+        "handle": "metal_05"
+    },
+    "02_044__678": {
+        "body": "metal_38",
+        "handle": "plastic_10"
+    },
+    "02_047__678": {
+        "body": "plastic_05",
+        "lid": "wood_53",
+        "handle": "plastic_13"
+    },
+    "02_049__678": {
+        "body": "wood_46",
+        "lid": "plastic_20",
+        "handle": "plastic_10"
+    },
+    "02_057__678": {
+        "body": "metal_43",
+        "handle": "plastic_16"
+    },
+    "02_05c__678": {
+        "body": "wood_63",
+        "handle": "plastic_02"
+    },
+    "02_061__678": {
+        "body": "wood_00",
+        "handle": "metal_44"
+    },
+    "02_06e__678": {
+        "body": "plastic_03",
+        "handle": "metal_62"
+    },
+    "02_074__678": {
+        "body": "metal_45",
+        "handle": "plastic_08"
+    },
+    "02_077__678": {
+        "body": "metal_59",
+        "handle": "plastic_13"
+    },
+    "02_079__678": {
+        "body": "plastic_17",
+        "handle": "plastic_08"
+    },
+    "03_002__678": {
+        "bbq_cooking_grate": "metal_51",
+        "handle": "plastic_10",
+        "base": "plastic_03"
+    },
+    "03_005__678": {
+        "bbq_cooking_grate": "metal_12",
+        "base": "wood_22"
+    },
+    "03_007__678": {
+        "bbq_cooking_grate": "metal_55",
+        "base": "metal_49"
+    },
+    "03_008__678": {
+        "base": "plastic_07",
+        "bbq_cooking_grate": "metal_05"
+    },
+    "03_00a__678": {
+        "bbq_cooking_grate": "metal_28",
+        "base": "plastic_15",
+        "handle": "wood_18"
+    },
+    "03_012__678": {
+        "bbq_cooking_grate": "metal_11",
+        "handle": "metal_21",
+        "base": "plastic_10"
+    },
+    "03_015__678": {
+        "bbq_cooking_grate": "metal_18",
+        "handle": "wood_02",
+        "base": "metal_40"
+    },
+    "04_01f__678": {
+        "body": "metal_23",
+        "bed_board": "wood_06",
+        "base": "metal_29",
+        "pillow": "fabric_22"
+    },
+    "04_028__678": {
+        "body": "metal_51",
+        "bed_board": "wood_11",
+        "base": "metal_62"
+    },
+    "04_029__678": {
+        "bed_board": "metal_35",
+        "body": "metal_54",
+        "base": "metal_29",
+        "pillow": "fabric_27"
+    },
+    "04_039__678": {
+        "body": "metal_45",
+        "bed_board": "wood_09",
+        "base": "wood_25",
+        "pillow": "fabric_27"
+    },
+    "04_03a__678": {
+        "body": "metal_45",
+        "bed_board": "wood_51",
+        "base": "plastic_04",
+        "pillow": "fabric_24"
+    },
+    "04_04d__678": {
+        "body": "wood_27",
+        "bed_board": "wood_37",
+        "base": "metal_12",
+        "pillow": "fabric_00"
+    },
+    "04_051__678": {
+        "body": "wood_40",
+        "bed_board": "wood_60",
+        "base": "metal_55"
+    },
+    "04_064__678": {
+        "body": "wood_08",
+        "bed_board": "wood_59",
+        "base": "plastic_19",
+        "pillow": "fabric_17"
+    },
+    "04_06c__678": {
+        "body": "wood_03",
+        "base": "wood_59",
+        "pillow": "fabric_31"
+    },
+    "04_072__678": {
+        "body": "wood_02",
+        "bed_board": "wood_21",
+        "base": "wood_10",
+        "pillow": "fabric_17"
+    },
+    "04_076__678": {
+        "body": "metal_57",
+        "bed_board": "wood_10",
+        "base": "wood_07",
+        "pillow": "fabric_17"
+    },
+    "04_07e__678": {
+        "bed_board": "metal_25",
+        "body": "metal_54"
+    },
+    "04_082__678": {
+        "bed_board": "metal_53",
+        "body": "wood_58",
+        "base": "metal_53",
+        "pillow": "fabric_31"
+    },
+    "04_095__678": {
+        "body": "wood_42",
+        "bed_board": "wood_59",
+        "base": "wood_25",
+        "pillow": "fabric_09"
+    },
+    "04_097__678": {
+        "body": "metal_24",
+        "bed_board": "wood_33",
+        "pillow": "fabric_08"
+    },
+    "04_0ab__678": {
+        "body": "wood_61",
+        "bed_board": "wood_20",
+        "base": "wood_59"
+    },
+    "04_0c2__678": {
+        "body": "wood_09",
+        "bed_board": "wood_09",
+        "base": "wood_24",
+        "pillow": "fabric_03"
+    },
+    "04_0c9__678": {
+        "body": "wood_44",
+        "bed_board": "wood_44",
+        "base": "wood_16"
+    },
+    "04_0cd__678": {
+        "body": "wood_47",
+        "bed_board": "wood_36",
+        "base": "wood_56",
+        "pillow": "fabric_13"
+    },
+    "04_0d3__678": {
+        "bed_board": "wood_20",
+        "body": "metal_41",
+        "base": "metal_52",
+        "pillow": "fabric_23"
+    },
+    "04_0d8__678": {
+        "bed_board": "metal_43",
+        "body": "metal_41",
+        "base": "metal_30",
+        "pillow": "fabric_03"
+    },
+    "04_0eb__678": {
+        "bed_board": "wood_08",
+        "body": "metal_61",
+        "base": "wood_62",
+        "pillow": "fabric_29"
+    },
+    "04_0ec__678": {
+        "body": "metal_10",
+        "bed_board": "wood_02",
+        "base": "plastic_20",
+        "pillow": "fabric_11"
+    },
+    "04_0ee__678": {
+        "bed_board": "metal_32",
+        "body": "wood_44",
+        "base": "metal_28",
+        "pillow": "fabric_06"
+    },
+    "04_0f3__678": {
+        "body": "wood_25",
+        "bed_board": "wood_08",
+        "base": "metal_42",
+        "pillow": "fabric_30"
+    },
+    "04_0f4__678": {
+        "bed_board": "wood_05",
+        "body": "wood_24",
+        "base": "wood_31",
+        "pillow": "fabric_22"
+    },
+    "04_0f7__678": {
+        "body": "wood_07",
+        "bed_board": "metal_24",
+        "base": "metal_44",
+        "pillow": "fabric_05"
+    },
+    "04_111__678": {
+        "body": "wood_60",
+        "bed_board": "wood_48",
+        "base": "metal_61",
+        "pillow": "fabric_16"
+    },
+    "04_11a__678": {
+        "body": "wood_12",
+        "bed_board": "wood_05",
+        "base": "metal_40"
+    },
+    "04_11b__678": {
+        "body": "wood_30",
+        "bed_board": "wood_09",
+        "base": "metal_48",
+        "pillow": "fabric_23"
+    },
+    "04_11e__678": {
+        "body": "wood_28",
+        "bed_board": "wood_55",
+        "base": "wood_06",
+        "pillow": "fabric_07"
+    },
+    "04_12f__678": {
+        "body": "wood_33",
+        "bed_board": "wood_62",
+        "base": "plastic_08",
+        "pillow": "fabric_09"
+    },
+    "04_136__678": {
+        "body": "metal_11",
+        "bed_board": "wood_27",
+        "base": "metal_59",
+        "pillow": "fabric_23"
+    },
+    "04_155__678": {
+        "body": "wood_19",
+        "bed_board": "wood_39",
+        "base": "metal_54",
+        "pillow": "fabric_05"
+    },
+    "04_156__678": {
+        "body": "wood_31",
+        "bed_board": "wood_57",
+        "base": "metal_13",
+        "pillow": "fabric_25"
+    },
+    "04_160__678": {
+        "body": "wood_29",
+        "bed_board": "wood_07",
+        "base": "wood_34",
+        "pillow": "fabric_15"
+    },
+    "04_162__678": {
+        "body": "metal_17",
+        "base": "wood_61",
+        "pillow": "fabric_17"
+    },
+    "04_16c__678": {
+        "body": "metal_26",
+        "bed_board": "wood_36",
+        "base": "metal_43",
+        "pillow": "fabric_28"
+    },
+    "04_16f__678": {
+        "bed_board": "wood_49",
+        "body": "wood_54",
+        "base": "wood_41",
+        "pillow": "fabric_16"
+    },
+    "04_181__678": {
+        "body": "wood_63",
+        "bed_board": "wood_34",
+        "base": "wood_61",
+        "pillow": "fabric_11"
+    },
+    "04_189__678": {
+        "body": "metal_21",
+        "bed_board": "wood_05",
+        "base": "metal_38",
+        "pillow": "fabric_22"
+    },
+    "04_18c__678": {
+        "body": "wood_17",
+        "bed_board": "wood_04",
+        "base": "metal_07",
+        "pillow": "fabric_23"
+    },
+    "04_193__678": {
+        "body": "wood_44",
+        "bed_board": "wood_14",
+        "base": "wood_45",
+        "pillow": "fabric_20"
+    },
+    "04_19a__678": {
+        "body": "metal_58",
+        "base": "wood_20",
+        "pillow": "fabric_10"
+    },
+    "04_1a5__678": {
+        "body": "metal_64",
+        "base": "wood_49",
+        "pillow": "fabric_09"
+    },
+    "04_1aa__678": {
+        "body": "metal_50",
+        "bed_board": "wood_09",
+        "base": "wood_02",
+        "pillow": "fabric_16"
+    },
+    "04_1cb__678": {
+        "bed_board": "wood_18",
+        "body": "metal_16",
+        "base": "wood_13",
+        "pillow": "fabric_29"
+    },
+    "04_1cf__678": {
+        "body": "wood_18",
+        "bed_board": "wood_30",
+        "base": "metal_11",
+        "pillow": "fabric_07"
+    },
+    "04_1dd__678": {
+        "body": "metal_47",
+        "bed_board": "metal_49",
+        "base": "metal_57",
+        "pillow": "fabric_29"
+    },
+    "05_019__678": {
+        "base": "plastic_13",
+        "seat": "leather_20"
+    },
+    "05_01e__678": {
+        "base": "plastic_10",
+        "seat": "leather_24"
+    },
+    "05_021__678": {
+        "base": "wood_12",
+        "seat": "leather_15"
+    },
+    "05_024__678": {
+        "base": "metal_49",
+        "seat": "leather_16"
+    },
+    "05_032__678": {
+        "base": "metal_08",
+        "seat": "fabric_27"
+    },
+    "05_036__678": {
+        "base": "wood_23",
+        "seat": "leather_18"
+    },
+    "05_037__678": {
+        "base": "metal_27",
+        "seat": "fabric_31"
+    },
+    "05_046__678": {
+        "base": "plastic_05",
+        "seat": "plastic_00",
+        "pillow": "fabric_26"
+    },
+    "05_04c__678": {
+        "backrest": "leather_12",
+        "base": "plastic_11",
+        "seat": "fabric_31"
+    },
+    "05_05d__678": {
+        "base": "metal_22",
+        "seat": "fabric_17"
+    },
+    "05_062__678": {
+        "base": "plastic_06",
+        "backrest": "fabric_04",
+        "seat": "leather_01"
+    },
+    "05_075__678": {
+        "base": "metal_61",
+        "seat": "fabric_02"
+    },
+    "05_083__678": {
+        "base": "plastic_11",
+        "seat": "leather_25"
+    },
+    "05_084__678": {
+        "base": "metal_15",
+        "seat": "leather_06"
+    },
+    "05_085__678": {
+        "base": "metal_44",
+        "seat": "fabric_02"
+    },
+    "05_0a3__678": {
+        "base": "wood_02",
+        "seat": "leather_12"
+    },
+    "05_0ac__678": {
+        "seat": "wood_61",
+        "base": "wood_07",
+        "pillow": "fabric_19"
+    },
+    "05_0ad__678": {
+        "base": "plastic_09",
+        "seat": "fabric_01"
+    },
+    "05_0b5__678": {
+        "base": "plastic_18",
+        "seat": "fabric_15"
+    },
+    "05_0c6__678": {
+        "base": "wood_60",
+        "seat": "leather_09"
+    },
+    "05_0ca__678": {
+        "base": "metal_64",
+        "seat": "leather_21"
+    },
+    "05_0d0__678": {
+        "base": "plastic_04",
+        "seat": "leather_25"
+    },
+    "05_0d6__678": {
+        "base": "plastic_02",
+        "seat": "leather_10"
+    },
+    "05_0f0__678": {
+        "base": "plastic_00",
+        "pillow": "leather_24",
+        "seat": "fabric_12"
+    },
+    "05_0fe__678": {
+        "base": "wood_23",
+        "seat": "leather_21"
+    },
+    "05_102__678": {
+        "base": "metal_38",
+        "seat": "fabric_13"
+    },
+    "05_10f__678": {
+        "base": "metal_30",
+        "seat": "leather_20"
+    },
+    "05_121__678": {
+        "base": "metal_29",
+        "seat": "fabric_20"
+    },
+    "05_133__678": {
+        "base": "metal_63",
+        "seat": "leather_10"
+    },
+    "05_13a__678": {
+        "base": "wood_51",
+        "seat": "leather_30"
+    },
+    "05_13c__678": {
+        "base": "plastic_15",
+        "seat": "leather_28"
+    },
+    "05_149__678": {
+        "base": "plastic_13",
+        "pillow": "fabric_24",
+        "seat": "fabric_25"
+    },
+    "05_14a__678": {
+        "base": "metal_38",
+        "seat": "leather_21"
+    },
+    "05_14f__678": {
+        "base": "plastic_12",
+        "seat": "leather_22"
+    },
+    "05_167__678": {
+        "base": "metal_51",
+        "seat": "fabric_28"
+    },
+    "05_179__678": {
+        "base": "wood_30",
+        "seat": "fabric_14"
+    },
+    "05_18f__678": {
+        "base": "plastic_04",
+        "seat": "leather_24"
+    },
+    "05_198__678": {
+        "base": "metal_07",
+        "seat": "leather_11"
+    },
+    "05_199__678": {
+        "backrest": "fabric_24",
+        "base": "metal_26",
+        "seat": "leather_24"
+    },
+    "05_1a1__678": {
+        "seat": "wood_16",
+        "base": "metal_13"
+    },
+    "05_1a2__678": {
+        "base": "plastic_06",
+        "pillow": "fabric_26",
+        "seat": "fabric_20"
+    },
+    "05_1ae__678": {
+        "base": "wood_03",
+        "seat": "leather_12"
+    },
+    "05_1b4__678": {
+        "base": "wood_57",
+        "backrest": "metal_61",
+        "seat": "fabric_23"
+    },
+    "05_1be__678": {
+        "base": "plastic_15",
+        "pillow": "leather_25",
+        "seat": "fabric_26"
+    },
+    "05_1c1__678": {
+        "base": "plastic_15",
+        "seat": "leather_02"
+    },
+    "06_001__678": {
+        "body": "metal_41",
+        "wheel": "rubber_02",
+        "seat": "rubber_02"
+    },
+    "06_002__678": {
+        "body": "metal_29",
+        "wheel": "rubber_00",
+        "seat": "rubber_04"
+    },
+    "06_003__678": {
+        "body": "metal_46",
+        "wheel": "rubber_03",
+        "seat": "rubber_04"
+    },
+    "06_009__678": {
+        "body": "metal_29",
+        "wheel": "rubber_01",
+        "seat": "rubber_04"
+    },
+    "06_00a__678": {
+        "body": "metal_03",
+        "wheel": "rubber_01",
+        "seat": "rubber_02"
+    },
+    "06_011__678": {
+        "body": "metal_19",
+        "wheel": "rubber_02",
+        "seat": "rubber_04"
+    },
+    "06_01e__678": {
+        "body": "metal_18",
+        "wheel": "rubber_04",
+        "seat": "rubber_00"
+    },
+    "06_028__678": {
+        "body": "metal_56",
+        "wheel": "rubber_03",
+        "seat": "rubber_02"
+    },
+    "07_002__678": {
+        "roof": "wood_25",
+        "body": "plastic_19"
+    },
+    "07_00e__678": {
+        "body": "wood_31",
+        "roof": "wood_36"
+    },
+    "07_011__678": {
+        "body": "metal_24",
+        "roof": "wood_19"
+    },
+    "07_013__678": {
+        "body": "wood_63",
+        "roof": "metal_62"
+    },
+    "07_01a__678": {
+        "body": "plastic_17",
+        "roof": "wood_10"
+    },
+    "07_01f__678": {
+        "body": "wood_54",
+        "roof": "wood_42"
+    },
+    "07_021__678": {
+        "body": "wood_05",
+        "roof": "wood_01"
+    },
+    "07_025__678": {
+        "body": "wood_61",
+        "roof": "metal_51"
+    },
+    "07_026__678": {
+        "body": "metal_23",
+        "roof": "wood_36"
+    },
+    "07_02d__678": {
+        "body": "wood_12",
+        "roof": "wood_26"
+    },
+    "07_036__678": {
+        "bird_house_cage": "wood_10",
+        "roof": "metal_30",
+        "body": "metal_50"
+    },
+    "07_039__678": {
+        "body": "metal_33",
+        "roof": "plastic_00"
+    },
+    "07_03a__678": {
+        "body": "wood_43",
+        "roof": "metal_46"
+    },
+    "07_03b__678": {
+        "body": "metal_51",
+        "roof": "plastic_03"
+    },
+    "07_03d__678": {
+        "bird_house_dispenser": "metal_00",
+        "body": "plastic_11",
+        "roof": "metal_65"
+    },
+    "07_03e__678": {
+        "body": "wood_33",
+        "roof": "plastic_08"
+    },
+    "07_044__678": {
+        "body": "wood_56",
+        "roof": "metal_14"
+    },
+    "07_054__678": {
+        "bird_house_dispenser": "metal_27",
+        "body": "plastic_16",
+        "roof": "plastic_18"
+    },
+    "07_059__678": {
+        "body": "wood_17",
+        "roof": "wood_01"
+    },
+    "07_05b__678": {
+        "bird_house_dispenser": "plastic_06",
+        "body": "metal_22",
+        "roof": "wood_20"
+    },
+    "07_05f__678": {
+        "body": "plastic_10",
+        "roof": "metal_02"
+    },
+    "07_063__678": {
+        "body": "metal_24",
+        "roof": "metal_48"
+    },
+    "07_074__678": {
+        "body": "metal_31",
+        "roof": "metal_33"
+    },
+    "07_07a__678": {
+        "body": "wood_04",
+        "roof": "metal_33"
+    },
+    "07_07b__678": {
+        "body": "wood_37",
+        "roof": "metal_23"
+    },
+    "07_081__678": {
+        "body": "plastic_19",
+        "roof": "metal_12"
+    },
+    "07_085__678": {
+        "body": "wood_20",
+        "roof": "plastic_07"
+    },
+    "07_090__678": {
+        "roof": "plastic_01",
+        "body": "plastic_19"
+    },
+    "07_092__678": {
+        "bird_house_cage": "wood_06",
+        "body": "wood_15",
+        "roof": "plastic_20"
+    },
+    "07_098__678": {
+        "body": "metal_13",
+        "roof": "plastic_12"
+    },
+    "07_09a__678": {
+        "bird_house_dispenser": "plastic_13",
+        "body": "plastic_01",
+        "roof": "metal_59"
+    },
+    "07_0a4__678": {
+        "body": "metal_07",
+        "roof": "plastic_15"
+    },
+    "08_002__678": {
+        "body": "wood_48",
+        "paddle": "metal_17"
+    },
+    "08_003__678": {
+        "body": "plastic_00",
+        "window": "metal_51"
+    },
+    "08_013__678": {
+        "body": "plastic_18",
+        "window": "metal_44"
+    },
+    "08_016__678": {
+        "body": "metal_10",
+        "paddle": "plastic_13"
+    },
+    "08_01b__678": {
+        "body": "plastic_15",
+        "paddle": "plastic_15"
+    },
+    "08_01f__678": {
+        "body": "metal_01",
+        "paddle": "metal_20"
+    },
+    "08_032__678": {
+        "body": "plastic_06",
+        "paddle": "metal_14"
+    },
+    "08_03a__678": {
+        "body": "plastic_11",
+        "paddle": "wood_31"
+    },
+    "09_028__678": {
+        "vertical_panel": "metal_12",
+        "base": "wood_40",
+        "horizontal_panel": "wood_23"
+    },
+    "09_029__678": {
+        "vertical_panel": "wood_31",
+        "base": "metal_27",
+        "horizontal_panel": "metal_01"
+    },
+    "09_040__678": {
+        "vertical_panel": "metal_41",
+        "base": "wood_59",
+        "horizontal_panel": "wood_04"
+    },
+    "09_045__678": {
+        "vertical_panel": "metal_40",
+        "base": "wood_00",
+        "horizontal_panel": "wood_25"
+    },
+    "09_049__678": {
+        "vertical_panel": "wood_15",
+        "base": "wood_56",
+        "horizontal_panel": "wood_07"
+    },
+    "09_04d__678": {
+        "vertical_panel": "wood_43",
+        "base": "wood_34",
+        "horizontal_panel": "metal_34"
+    },
+    "09_05c__678": {
+        "vertical_panel": "wood_50",
+        "base": "wood_02",
+        "horizontal_panel": "wood_08"
+    },
+    "09_084__678": {
+        "vertical_panel": "wood_14",
+        "base": "metal_51",
+        "horizontal_panel": "metal_46"
+    },
+    "09_08b__678": {
+        "vertical_panel": "metal_36",
+        "base": "wood_02",
+        "horizontal_panel": "metal_54"
+    },
+    "09_08f__678": {
+        "vertical_panel": "wood_60",
+        "base": "wood_13",
+        "horizontal_panel": "metal_08"
+    },
+    "09_096__678": {
+        "vertical_panel": "wood_21",
+        "base": "metal_44",
+        "horizontal_panel": "metal_41"
+    },
+    "09_09c__678": {
+        "vertical_panel": "wood_26",
+        "base": "wood_46",
+        "horizontal_panel": "wood_60"
+    },
+    "09_0ab__678": {
+        "vertical_panel": "wood_00",
+        "base": "metal_29",
+        "horizontal_panel": "metal_22"
+    },
+    "09_0ac__678": {
+        "vertical_panel": "metal_13",
+        "base": "wood_04",
+        "horizontal_panel": "wood_19"
+    },
+    "09_0bf__678": {
+        "vertical_panel": "wood_55",
+        "base": "wood_43",
+        "horizontal_panel": "wood_03"
+    },
+    "09_0c2__678": {
+        "vertical_panel": "wood_23",
+        "base": "metal_47",
+        "horizontal_panel": "wood_60"
+    },
+    "09_0c7__678": {
+        "vertical_panel": "metal_33",
+        "base": "wood_48",
+        "horizontal_panel": "metal_19"
+    },
+    "09_0cc__678": {
+        "vertical_panel": "wood_30",
+        "base": "wood_00",
+        "horizontal_panel": "wood_01"
+    },
+    "09_0cf__678": {
+        "vertical_panel": "metal_12",
+        "base": "metal_29",
+        "horizontal_panel": "metal_48"
+    },
+    "09_0d1__678": {
+        "vertical_panel": "wood_13",
+        "base": "wood_35",
+        "horizontal_panel": "metal_04"
+    },
+    "09_0d8__678": {
+        "vertical_panel": "wood_38",
+        "base": "metal_31",
+        "horizontal_panel": "metal_12"
+    },
+    "09_101__678": {
+        "vertical_panel": "wood_14",
+        "base": "wood_32",
+        "horizontal_panel": "metal_60"
+    },
+    "09_108__678": {
+        "vertical_panel": "metal_25",
+        "base": "metal_22",
+        "horizontal_panel": "metal_09"
+    },
+    "09_114__678": {
+        "vertical_panel": "metal_57",
+        "base": "metal_38",
+        "horizontal_panel": "metal_42"
+    },
+    "09_124__678": {
+        "vertical_panel": "metal_55",
+        "base": "metal_57",
+        "horizontal_panel": "wood_63"
+    },
+    "09_125__678": {
+        "vertical_panel": "metal_07",
+        "base": "wood_32",
+        "horizontal_panel": "wood_19"
+    },
+    "09_129__678": {
+        "vertical_panel": "wood_28",
+        "base": "metal_07",
+        "horizontal_panel": "metal_33"
+    },
+    "09_12d__678": {
+        "vertical_panel": "metal_17",
+        "base": "metal_62",
+        "horizontal_panel": "wood_62"
+    },
+    "09_12e__678": {
+        "vertical_panel": "wood_37",
+        "base": "wood_28",
+        "horizontal_panel": "metal_60"
+    },
+    "09_13d__678": {
+        "vertical_panel": "wood_21",
+        "base": "metal_55",
+        "horizontal_panel": "metal_17"
+    },
+    "09_13f__678": {
+        "vertical_panel": "wood_56",
+        "base": "wood_38",
+        "horizontal_panel": "metal_35"
+    },
+    "09_141__678": {
+        "vertical_panel": "wood_06",
+        "base": "wood_36",
+        "horizontal_panel": "metal_34"
+    },
+    "09_145__678": {
+        "vertical_panel": "wood_37",
+        "base": "metal_37",
+        "horizontal_panel": "metal_47"
+    },
+    "09_146__678": {
+        "vertical_panel": "wood_33",
+        "base": "wood_21",
+        "horizontal_panel": "metal_47"
+    },
+    "09_158__678": {
+        "vertical_panel": "metal_60",
+        "base": "metal_39",
+        "horizontal_panel": "metal_04"
+    },
+    "09_15a__678": {
+        "vertical_panel": "glass_05",
+        "base": "wood_48",
+        "horizontal_panel": "metal_52"
+    },
+    "09_15b__678": {
+        "vertical_panel": "wood_38",
+        "base": "wood_47",
+        "horizontal_panel": "wood_09"
+    },
+    "09_179__678": {
+        "vertical_panel": "metal_43",
+        "base": "metal_39",
+        "horizontal_panel": "wood_50"
+    },
+    "09_182__678": {
+        "vertical_panel": "metal_44",
+        "base": "metal_09",
+        "horizontal_panel": "wood_12"
+    },
+    "09_193__678": {
+        "vertical_panel": "wood_04",
+        "base": "metal_14",
+        "horizontal_panel": "wood_09"
+    },
+    "09_197__678": {
+        "vertical_panel": "wood_61",
+        "base": "metal_52",
+        "horizontal_panel": "metal_28"
+    },
+    "0b_005__678": {
+        "car_seat": "fabric_29",
+        "body": "plastic_13",
+        "window": "glass_05",
+        "wheel": "rubber_02"
+    },
+    "0b_006__678": {
+        "car_seat": "fabric_25",
+        "body": "plastic_20",
+        "window": "glass_05",
+        "wheel": "rubber_00"
+    },
+    "0b_00e__678": {
+        "car_seat": "leather_22",
+        "body": "metal_19",
+        "window": "glass_01",
+        "wheel": "rubber_02"
+    },
+    "0b_010__678": {
+        "car_seat": "leather_23",
+        "body": "metal_45",
+        "window": "glass_03",
+        "wheel": "rubber_02"
+    },
+    "0b_013__678": {
+        "car_seat": "fabric_12",
+        "body": "plastic_06",
+        "window": "glass_01",
+        "wheel": "rubber_01"
+    },
+    "0b_014__678": {
+        "car_seat": "leather_06",
+        "body": "plastic_16",
+        "window": "glass_02",
+        "wheel": "rubber_01"
+    },
+    "0b_017__678": {
+        "car_seat": "leather_32",
+        "body": "plastic_06",
+        "window": "glass_01",
+        "wheel": "rubber_02"
+    },
+    "0b_02b__678": {
+        "car_seat": "fabric_30",
+        "body": "plastic_15",
+        "window": "glass_03",
+        "wheel": "rubber_00"
+    },
+    "0c_00e__678": {
+        "backrest": "fabric_02",
+        "base": "wood_34",
+        "seat": "plastic_12"
+    },
+    "0c_00f__678": {
+        "base": "wood_07",
+        "backrest": "fabric_29",
+        "seat": "leather_26"
+    },
+    "0c_01d__678": {
+        "base": "plastic_06",
+        "backrest": "fabric_06",
+        "seat": "fabric_24"
+    },
+    "0c_01f__678": {
+        "base": "wood_63",
+        "backrest": "leather_14",
+        "seat": "leather_17"
+    },
+    "0c_027__678": {
+        "base": "wood_05",
+        "backrest": "leather_01",
+        "seat": "fabric_18"
+    },
+    "0c_032__678": {
+        "backrest": "leather_33",
+        "base": "wood_50",
+        "seat": "leather_02"
+    },
+    "0c_03a__678": {
+        "backrest": "fabric_04",
+        "base": "metal_51",
+        "seat": "fabric_17"
+    },
+    "0c_043__678": {
+        "base": "wood_07",
+        "backrest": "leather_18",
+        "seat": "leather_29"
+    },
+    "0c_061__678": {
+        "base": "metal_35",
+        "backrest": "leather_02",
+        "pillow": "fabric_30",
+        "seat": "fabric_08"
+    },
+    "0c_067__678": {
+        "backrest": "wood_32",
+        "base": "wood_25",
+        "seat": "fabric_16"
+    },
+    "0c_07e__678": {
+        "base": "plastic_12",
+        "backrest": "leather_05",
+        "pillow": "leather_33",
+        "seat": "fabric_10"
+    },
+    "0c_087__678": {
+        "base": "metal_65",
+        "backrest": "fabric_26",
+        "seat": "fabric_10"
+    },
+    "0c_089__678": {
+        "base": "metal_56",
+        "backrest": "leather_32",
+        "seat": "fabric_28"
+    },
+    "0c_08a__678": {
+        "base": "metal_10",
+        "backrest": "leather_32",
+        "seat": "fabric_15"
+    },
+    "0c_090__678": {
+        "backrest": "fabric_27",
+        "base": "wood_37",
+        "pillow": "leather_33",
+        "seat": "fabric_15"
+    },
+    "0c_095__678": {
+        "backrest": "leather_18",
+        "base": "wood_35",
+        "pillow": "fabric_04",
+        "seat": "metal_29"
+    },
+    "0c_09e__678": {
+        "backrest": "fabric_30",
+        "base": "metal_22",
+        "seat": "leather_16"
+    },
+    "0c_0b7__678": {
+        "base": "plastic_13",
+        "backrest": "fabric_14",
+        "seat": "fabric_06"
+    },
+    "0c_0c5__678": {
+        "base": "wood_31",
+        "backrest": "wood_61",
+        "seat": "fabric_07"
+    },
+    "0c_0ce__678": {
+        "backrest": "fabric_07",
+        "base": "wood_13",
+        "seat": "leather_02"
+    },
+    "0c_0d4__678": {
+        "base": "metal_47",
+        "backrest": "metal_59",
+        "seat": "leather_01"
+    },
+    "0c_0dd__678": {
+        "backrest": "fabric_12",
+        "base": "metal_31",
+        "seat": "fabric_11"
+    },
+    "0c_0e1__678": {
+        "base": "plastic_07",
+        "pillow": "fabric_21",
+        "seat": "fabric_06"
+    },
+    "0c_0ef__678": {
+        "backrest": "leather_01",
+        "base": "wood_17",
+        "seat": "wood_36"
+    },
+    "0c_10d__678": {
+        "base": "wood_25",
+        "backrest": "plastic_00",
+        "seat": "fabric_23"
+    },
+    "0c_110__678": {
+        "base": "metal_06",
+        "backrest": "fabric_15",
+        "seat": "fabric_00"
+    },
+    "0c_119__678": {
+        "base": "metal_05",
+        "backrest": "leather_16",
+        "pillow": "fabric_08",
+        "seat": "fabric_27"
+    },
+    "0c_11b__678": {
+        "backrest": "fabric_11",
+        "base": "wood_37",
+        "seat": "leather_18"
+    },
+    "0c_12e__678": {
+        "base": "plastic_14",
+        "backrest": "plastic_09",
+        "seat": "fabric_20"
+    },
+    "0c_131__678": {
+        "backrest": "leather_16",
+        "base": "wood_60",
+        "seat": "leather_20"
+    },
+    "0c_139__678": {
+        "backrest": "fabric_10",
+        "base": "wood_50",
+        "seat": "fabric_31"
+    },
+    "0c_140__678": {
+        "base": "plastic_01",
+        "backrest": "fabric_07",
+        "pillow": "fabric_31",
+        "seat": "leather_16"
+    },
+    "0c_141__678": {
+        "backrest": "fabric_13",
+        "base": "metal_18",
+        "seat": "fabric_19"
+    },
+    "0c_157__678": {
+        "base": "metal_05",
+        "backrest": "fabric_03",
+        "seat": "fabric_04"
+    },
+    "0c_166__678": {
+        "base": "metal_20",
+        "backrest": "metal_21",
+        "seat": "fabric_09"
+    },
+    "0c_18b__678": {
+        "backrest": "metal_54",
+        "base": "wood_26",
+        "seat": "fabric_04"
+    },
+    "0c_195__678": {
+        "base": "plastic_13",
+        "backrest": "wood_57",
+        "seat": "fabric_04"
+    },
+    "0c_199__678": {
+        "base": "metal_60",
+        "backrest": "fabric_21",
+        "seat": "leather_05"
+    },
+    "0c_19d__678": {
+        "base": "wood_26",
+        "backrest": "fabric_05",
+        "seat": "leather_09"
+    },
+    "0c_1a0__678": {
+        "base": "plastic_19",
+        "backrest": "leather_07",
+        "seat": "fabric_08"
+    },
+    "0c_1b0__678": {
+        "base": "metal_25",
+        "backrest": "plastic_20",
+        "seat": "leather_33"
+    },
+    "0c_1bc__678": {
+        "backrest": "fabric_16",
+        "base": "wood_57",
+        "seat": "leather_01"
+    },
+    "0c_1c7__678": {
+        "base": "plastic_16",
+        "backrest": "leather_16",
+        "seat": "fabric_03"
+    },
+    "0c_1ce__678": {
+        "backrest": "leather_14",
+        "base": "wood_00",
+        "seat": "leather_14"
+    },
+    "0c_1db__678": {
+        "base": "metal_57",
+        "backrest": "leather_22",
+        "pillow": "fabric_20",
+        "seat": "metal_29"
+    },
+    "0c_1e9__678": {
+        "base": "wood_57",
+        "backrest": "leather_15",
+        "seat": "leather_16"
+    },
+    "0c_1f3__678": {
+        "backrest": "leather_31",
+        "base": "plastic_02",
+        "seat": "wood_32"
+    },
+    "0c_1fc__678": {
+        "backrest": "metal_12",
+        "base": "metal_48",
+        "seat": "leather_18"
+    },
+    "0c_201__678": {
+        "backrest": "wood_59",
+        "base": "wood_00",
+        "seat": "metal_16"
+    },
+    "0c_203__678": {
+        "base": "wood_10",
+        "backrest": "metal_23",
+        "seat": "leather_26"
+    },
+    "0c_212__678": {
+        "backrest": "fabric_03",
+        "base": "wood_14",
+        "seat": "fabric_31"
+    },
+    "0c_21a__678": {
+        "base": "wood_51",
+        "backrest": "wood_13",
+        "seat": "leather_20"
+    },
+    "0c_229__678": {
+        "base": "wood_53",
+        "backrest": "leather_20",
+        "seat": "fabric_07"
+    },
+    "0c_22e__678": {
+        "base": "plastic_03",
+        "backrest": "wood_14",
+        "seat": "leather_01"
+    },
+    "0c_234__678": {
+        "base": "metal_51",
+        "backrest": "leather_28",
+        "seat": "leather_03"
+    },
+    "0c_238__678": {
+        "base": "metal_41",
+        "backrest": "wood_10",
+        "seat": "leather_08"
+    },
+    "0c_240__678": {
+        "base": "plastic_05",
+        "backrest": "fabric_13",
+        "seat": "leather_01"
+    },
+    "0c_248__678": {
+        "base": "metal_20",
+        "backrest": "plastic_14",
+        "seat": "fabric_20"
+    },
+    "0c_254__678": {
+        "backrest": "fabric_11",
+        "base": "plastic_20",
+        "seat": "leather_10"
+    },
+    "0c_255__678": {
+        "backrest": "leather_31",
+        "base": "metal_46",
+        "seat": "fabric_20"
+    },
+    "0c_25a__678": {
+        "backrest": "fabric_24",
+        "base": "plastic_18",
+        "seat": "fabric_30"
+    },
+    "0c_26d__678": {
+        "backrest": "leather_06",
+        "seat": "leather_24",
+        "base": "plastic_13"
+    },
+    "0c_270__678": {
+        "base": "metal_37",
+        "backrest": "wood_27",
+        "seat": "fabric_02"
+    },
+    "0c_27f__678": {
+        "backrest": "fabric_04",
+        "base": "plastic_11",
+        "seat": "fabric_18"
+    },
+    "0c_286__678": {
+        "backrest": "wood_54",
+        "base": "wood_13",
+        "seat": "leather_06"
+    },
+    "0c_28c__678": {
+        "base": "wood_31",
+        "backrest": "fabric_25",
+        "seat": "fabric_20"
+    },
+    "0c_2b5__678": {
+        "backrest": "fabric_25",
+        "base": "wood_60",
+        "seat": "metal_33"
+    },
+    "0c_2b7__678": {
+        "backrest": "plastic_01",
+        "base": "metal_03",
+        "seat": "leather_00"
+    },
+    "0c_2bf__678": {
+        "backrest": "leather_13",
+        "base": "plastic_00",
+        "seat": "leather_26"
+    },
+    "0c_2c0__678": {
+        "base": "wood_63",
+        "backrest": "fabric_29",
+        "seat": "leather_17"
+    },
+    "0c_2c8__678": {
+        "base": "wood_37",
+        "backrest": "fabric_27",
+        "seat": "leather_08"
+    },
+    "0c_2ca__678": {
+        "base": "wood_26",
+        "backrest": "metal_31",
+        "seat": "leather_00"
+    },
+    "0c_2e9__678": {
+        "base": "metal_42",
+        "backrest": "leather_17",
+        "seat": "leather_33"
+    },
+    "0c_2f2__678": {
+        "base": "metal_15",
+        "backrest": "fabric_26",
+        "seat": "fabric_16"
+    },
+    "0c_30a__678": {
+        "base": "fabric_29",
+        "backrest": "fabric_22",
+        "seat": "fabric_21"
+    },
+    "0c_30b__678": {
+        "backrest": "fabric_11",
+        "base": "plastic_12",
+        "seat": "fabric_28"
+    },
+    "0c_30c__678": {
+        "base": "wood_25",
+        "backrest": "metal_28",
+        "seat": "fabric_12"
+    },
+    "0c_312__678": {
+        "backrest": "fabric_23",
+        "base": "metal_10",
+        "seat": "leather_23"
+    },
+    "0c_31f__678": {
+        "backrest": "fabric_16",
+        "base": "metal_31",
+        "seat": "fabric_05"
+    },
+    "0c_321__678": {
+        "backrest": "wood_52",
+        "base": "wood_52",
+        "seat": "leather_26"
+    },
+    "0c_327__678": {
+        "backrest": "fabric_02",
+        "base": "metal_07",
+        "seat": "fabric_28"
+    },
+    "0c_328__678": {
+        "base": "wood_05",
+        "backrest": "leather_32",
+        "seat": "fabric_17"
+    },
+    "0c_32d__678": {
+        "backrest": "metal_46",
+        "base": "metal_19",
+        "seat": "wood_11"
+    },
+    "0c_341__678": {
+        "base": "wood_59",
+        "backrest": "leather_17",
+        "seat": "leather_29"
+    },
+    "0c_345__678": {
+        "backrest": "fabric_28",
+        "base": "wood_56",
+        "pillow": "fabric_05",
+        "seat": "leather_15"
+    },
+    "0c_348__678": {
+        "base": "metal_61",
+        "backrest": "leather_22",
+        "seat": "leather_26"
+    },
+    "0c_350__678": {
+        "base": "metal_21",
+        "backrest": "leather_14",
+        "seat": "fabric_09"
+    },
+    "0c_358__678": {
+        "base": "metal_40",
+        "backrest": "leather_07",
+        "seat": "leather_00"
+    },
+    "0c_35c__678": {
+        "backrest": "fabric_29",
+        "base": "plastic_18",
+        "seat": "fabric_10"
+    },
+    "0c_35f__678": {
+        "base": "wood_62",
+        "backrest": "fabric_15",
+        "seat": "leather_02"
+    },
+    "0c_36b__678": {
+        "base": "metal_42",
+        "backrest": "fabric_19",
+        "pillow": "fabric_09",
+        "seat": "fabric_26"
+    },
+    "0c_377__678": {
+        "base": "wood_46",
+        "backrest": "leather_20",
+        "seat": "leather_14"
+    },
+    "0c_390__678": {
+        "backrest": "leather_05",
+        "base": "plastic_19",
+        "seat": "leather_31"
+    },
+    "0c_391__678": {
+        "base": "plastic_14",
+        "backrest": "fabric_08",
+        "seat": "leather_26"
+    },
+    "0c_3a1__678": {
+        "base": "metal_13",
+        "backrest": "leather_10",
+        "pillow": "fabric_03",
+        "seat": "fabric_20"
+    },
+    "0c_3af__678": {
+        "backrest": "fabric_11",
+        "base": "plastic_16",
+        "seat": "fabric_12"
+    },
+    "0c_3b7__678": {
+        "base": "metal_47",
+        "backrest": "plastic_02",
+        "seat": "fabric_13"
+    },
+    "0c_3d2__678": {
+        "backrest": "leather_12",
+        "base": "plastic_16",
+        "seat": "leather_29"
+    },
+    "0c_3d5__678": {
+        "base": "metal_35",
+        "backrest": "wood_48",
+        "seat": "leather_18"
+    },
+    "0c_3df__678": {
+        "base": "plastic_10",
+        "backrest": "metal_56",
+        "seat": "leather_09"
+    },
+    "0c_3e5__678": {
+        "base": "metal_42",
+        "backrest": "leather_16",
+        "seat": "fabric_06"
+    },
+    "0c_3ec__678": {
+        "backrest": "fabric_05",
+        "base": "wood_01",
+        "seat": "plastic_19"
+    },
+    "0c_3ed__678": {
+        "base": "plastic_02",
+        "backrest": "leather_33",
+        "seat": "fabric_12"
+    },
+    "0c_3f2__678": {
+        "base": "plastic_06",
+        "backrest": "fabric_08",
+        "seat": "fabric_16"
+    },
+    "0c_3fd__678": {
+        "base": "plastic_20",
+        "backrest": "leather_12",
+        "seat": "fabric_00"
+    },
+    "0c_3fe__678": {
+        "backrest": "fabric_11",
+        "base": "plastic_20",
+        "pillow": "leather_06",
+        "seat": "fabric_04"
+    },
+    "0c_409__678": {
+        "base": "metal_06",
+        "backrest": "fabric_17",
+        "seat": "leather_02"
+    },
+    "0c_40b__678": {
+        "base": "metal_50",
+        "backrest": "leather_30",
+        "seat": "leather_04"
+    },
+    "0c_42e__678": {
+        "backrest": "fabric_08",
+        "base": "metal_05",
+        "pillow": "leather_17",
+        "seat": "metal_05"
+    },
+    "0c_436__678": {
+        "base": "plastic_13",
+        "backrest": "leather_05",
+        "seat": "leather_14"
+    },
+    "0c_440__678": {
+        "base": "metal_24",
+        "backrest": "leather_27",
+        "seat": "fabric_24"
+    },
+    "0d_002__678": {
+        "body": "plastic_11",
+        "clock_hand": "metal_45"
+    },
+    "0d_00e__678": {
+        "body": "metal_06",
+        "clock_hand": "metal_03"
+    },
+    "0d_015__678": {
+        "body": "metal_33",
+        "clock_hand": "metal_04"
+    },
+    "0d_023__678": {
+        "body": "metal_61",
+        "clock_hand": "plastic_15"
+    },
+    "0d_02d__678": {
+        "body": "metal_38",
+        "clock_hand": "plastic_17"
+    },
+    "0d_035__678": {
+        "clock_hand": "metal_19",
+        "body": "plastic_08"
+    },
+    "0d_03f__678": {
+        "body": "metal_44",
+        "clock_hand": "metal_51"
+    },
+    "0d_040__678": {
+        "body": "plastic_11",
+        "clock_hand": "plastic_18"
+    },
+    "0d_051__678": {
+        "body": "plastic_16",
+        "clock_hand": "metal_64"
+    },
+    "0d_052__678": {
+        "body": "plastic_08",
+        "clock_hand": "metal_01"
+    },
+    "0d_060__678": {
+        "body": "plastic_01",
+        "clock_hand": "metal_42"
+    },
+    "0d_073__678": {
+        "body": "metal_38",
+        "clock_hand": "plastic_01"
+    },
+    "0d_075__678": {
+        "body": "metal_02",
+        "clock_hand": "metal_20"
+    },
+    "0d_07a__678": {
+        "body": "plastic_06",
+        "clock_hand": "metal_48"
+    },
+    "0d_087__678": {
+        "body": "metal_33",
+        "clock_hand": "metal_36"
+    },
+    "0d_089__678": {
+        "body": "plastic_19",
+        "clock_hand": "plastic_16"
+    },
+    "0d_0a4__678": {
+        "body": "plastic_10",
+        "clock_hand": "metal_55"
+    },
+    "0d_0ae__678": {
+        "body": "metal_35",
+        "clock_hand": "plastic_19"
+    },
+    "0d_0bb__678": {
+        "body": "metal_50",
+        "clock_hand": "metal_27"
+    },
+    "0d_0cc__678": {
+        "body": "plastic_20",
+        "clock_hand": "metal_48"
+    },
+    "0d_0d0__678": {
+        "body": "metal_44",
+        "clock_hand": "metal_31"
+    },
+    "0d_0d1__678": {
+        "body": "metal_36",
+        "clock_hand": "plastic_02"
+    },
+    "0d_0e1__678": {
+        "body": "plastic_11",
+        "clock_hand": "metal_12"
+    },
+    "0e_004__678": {
+        "coat_rack_hanger": "wood_42",
+        "pole": "wood_40",
+        "base": "wood_57"
+    },
+    "0e_005__678": {
+        "coat_rack_hanger": "metal_56",
+        "pole": "wood_54",
+        "base": "metal_56"
+    },
+    "0e_007__678": {
+        "coat_rack_hanger": "wood_15",
+        "base": "metal_26",
+        "pole": "metal_16"
+    },
+    "0e_010__678": {
+        "coat_rack_hanger": "metal_17",
+        "pole": "wood_33",
+        "base": "metal_45"
+    },
+    "0e_011__678": {
+        "coat_rack_hanger": "wood_15",
+        "pole": "metal_53",
+        "base": "metal_29"
+    },
+    "0e_014__678": {
+        "coat_rack_hanger": "metal_55",
+        "base": "metal_32",
+        "pole": "metal_10"
+    },
+    "0e_01c__678": {
+        "coat_rack_hanger": "wood_21",
+        "base": "wood_23",
+        "pole": "metal_02"
+    },
+    "0e_01d__678": {
+        "coat_rack_hanger": "wood_22",
+        "pole": "wood_04",
+        "base": "wood_22"
+    },
+    "0e_021__678": {
+        "coat_rack_hanger": "metal_44",
+        "base": "metal_32",
+        "pole": "metal_40"
+    },
+    "0e_027__678": {
+        "coat_rack_hanger": "metal_32",
+        "base": "metal_17",
+        "pole": "metal_00"
+    },
+    "0e_028__678": {
+        "coat_rack_hanger": "wood_07",
+        "base": "wood_45",
+        "pole": "metal_11"
+    },
+    "0e_02c__678": {
+        "coat_rack_hanger": "wood_46",
+        "pole": "wood_31",
+        "base": "wood_40"
+    },
+    "0e_02e__678": {
+        "coat_rack_hanger": "metal_54",
+        "base": "metal_27",
+        "pole": "metal_17"
+    },
+    "0e_033__678": {
+        "coat_rack_hanger": "wood_22",
+        "pole": "metal_41",
+        "base": "metal_42"
+    },
+    "0e_037__678": {
+        "coat_rack_hanger": "metal_39",
+        "base": "wood_24",
+        "pole": "wood_60"
+    },
+    "0e_03b__678": {
+        "coat_rack_hanger": "metal_36",
+        "pole": "metal_49",
+        "base": "wood_13"
+    },
+    "0e_047__678": {
+        "coat_rack_hanger": "metal_15",
+        "base": "metal_06",
+        "pole": "metal_41"
+    },
+    "0e_049__678": {
+        "coat_rack_hanger": "metal_07",
+        "base": "wood_04",
+        "pole": "wood_37"
+    },
+    "0e_04d__678": {
+        "coat_rack_hanger": "metal_30",
+        "base": "wood_42",
+        "pole": "metal_35"
+    },
+    "0e_051__678": {
+        "coat_rack_hanger": "metal_00",
+        "pole": "wood_14",
+        "base": "metal_16"
+    },
+    "0e_061__678": {
+        "coat_rack_hanger": "wood_27",
+        "pole": "metal_35"
+    },
+    "0e_065__678": {
+        "coat_rack_hanger": "wood_42",
+        "pole": "wood_03"
+    },
+    "0e_067__678": {
+        "coat_rack_hanger": "wood_27",
+        "pole": "wood_33",
+        "base": "wood_05"
+    },
+    "0e_069__678": {
+        "coat_rack_hanger": "metal_00",
+        "pole": "metal_50",
+        "base": "metal_12"
+    },
+    "0e_06b__678": {
+        "coat_rack_hanger": "metal_33",
+        "base": "metal_25",
+        "pole": "wood_52"
+    },
+    "0e_06c__678": {
+        "coat_rack_hanger": "metal_31",
+        "pole": "metal_64",
+        "base": "wood_49"
+    },
+    "0e_080__678": {
+        "coat_rack_hanger": "wood_52",
+        "pole": "metal_31"
+    },
+    "0e_081__678": {
+        "coat_rack_hanger": "wood_38",
+        "base": "metal_02",
+        "pole": "metal_41"
+    },
+    "0e_08d__678": {
+        "coat_rack_hanger": "wood_40",
+        "base": "metal_07",
+        "pole": "metal_34"
+    },
+    "0e_090__678": {
+        "coat_rack_hanger": "metal_06",
+        "pole": "wood_45",
+        "base": "metal_04"
+    },
+    "0f_009__678": {
+        "curtain": "fabric_09",
+        "hook": "metal_12",
+        "pole": "metal_38"
+    },
+    "0f_00e__678": {
+        "curtain": "fabric_23",
+        "pole": "metal_53"
+    },
+    "0f_00f__678": {
+        "curtain": "fabric_09",
+        "hook": "metal_27",
+        "pole": "metal_42"
+    },
+    "0f_017__678": {
+        "curtain": "fabric_11",
+        "pole": "metal_54"
+    },
+    "0f_019__678": {
+        "curtain": "fabric_00",
+        "hook": "plastic_18",
+        "pole": "metal_63"
+    },
+    "0f_01f__678": {
+        "curtain": "fabric_12",
+        "hook": "metal_30",
+        "pole": "metal_60"
+    },
+    "0f_021__678": {
+        "curtain": "fabric_19",
+        "hook": "plastic_16",
+        "pole": "metal_34"
+    },
+    "0f_023__678": {
+        "curtain": "fabric_27",
+        "hook": "metal_18",
+        "pole": "metal_54"
+    },
+    "0f_029__678": {
+        "curtain": "fabric_29",
+        "hook": "plastic_02",
+        "pole": "metal_55"
+    },
+    "0f_031__678": {
+        "curtain": "fabric_31",
+        "hook": "metal_46",
+        "pole": "metal_55"
+    },
+    "0f_033__678": {
+        "curtain": "fabric_16",
+        "hook": "plastic_12",
+        "pole": "metal_11"
+    },
+    "0f_03a__678": {
+        "curtain": "fabric_24",
+        "hook": "metal_30",
+        "pole": "metal_27"
+    },
+    "0f_04b__678": {
+        "curtain": "fabric_12",
+        "hook": "plastic_13",
+        "pole": "metal_63"
+    },
+    "0f_056__678": {
+        "curtain": "fabric_03",
+        "hook": "metal_03",
+        "pole": "metal_47"
+    },
+    "0f_059__678": {
+        "curtain": "fabric_25",
+        "hook": "plastic_06",
+        "pole": "metal_59"
+    },
+    "0f_05d__678": {
+        "curtain": "fabric_13",
+        "pole": "metal_64"
+    },
+    "0f_05e__678": {
+        "curtain": "fabric_09",
+        "hook": "plastic_17",
+        "pole": "metal_57"
+    },
+    "0f_060__678": {
+        "curtain": "fabric_12",
+        "hook": "plastic_15",
+        "pole": "metal_47"
+    },
+    "0f_062__678": {
+        "curtain": "fabric_26",
+        "pole": "metal_02"
+    },
+    "0f_063__678": {
+        "curtain": "fabric_09",
+        "pole": "metal_29"
+    },
+    "0f_06c__678": {
+        "curtain": "fabric_17",
+        "hook": "metal_03",
+        "pole": "metal_31"
+    },
+    "0f_06d__678": {
+        "curtain": "fabric_02",
+        "hook": "metal_09",
+        "pole": "metal_21"
+    },
+    "10_001__678": {
+        "vertical_panel": "metal_07",
+        "handle": "metal_19",
+        "horizontal_panel": "metal_54"
+    },
+    "10_002__678": {
+        "vertical_panel": "plastic_03",
+        "handle": "metal_12",
+        "horizontal_panel": "plastic_11"
+    },
+    "10_004__678": {
+        "vertical_panel": "plastic_15",
+        "handle": "metal_55",
+        "horizontal_panel": "plastic_11"
+    },
+    "10_00b__678": {
+        "vertical_panel": "metal_32",
+        "handle": "metal_53",
+        "horizontal_panel": "metal_50"
+    },
+    "10_010__678": {
+        "vertical_panel": "metal_00",
+        "handle": "metal_06",
+        "horizontal_panel": "plastic_10",
+        "base": "plastic_06"
+    },
+    "10_012__678": {
+        "vertical_panel": "metal_50",
+        "handle": "plastic_07",
+        "horizontal_panel": "metal_58"
+    },
+    "10_021__678": {
+        "vertical_panel": "plastic_16",
+        "handle": "metal_15",
+        "horizontal_panel": "plastic_09",
+        "base": "metal_60"
+    },
+    "10_029__678": {
+        "vertical_panel": "plastic_10",
+        "handle": "plastic_09",
+        "horizontal_panel": "metal_05"
+    },
+    "11_002__678": {
+        "vertical_panel": "wood_22",
+        "handle": "metal_48",
+        "horizontal_panel": "wood_06"
+    },
+    "11_01c__678": {
+        "vertical_panel": "wood_54",
+        "handle": "wood_11",
+        "horizontal_panel": "wood_25"
+    },
+    "11_020__678": {
+        "horizontal_panel": "wood_52",
+        "base": "wood_16",
+        "vertical_panel": "wood_17"
+    },
+    "11_03e__678": {
+        "vertical_panel": "wood_45",
+        "handle": "metal_23",
+        "horizontal_panel": "wood_60",
+        "base": "metal_43"
+    },
+    "11_040__678": {
+        "horizontal_panel": "wood_63",
+        "base": "metal_30",
+        "vertical_panel": "wood_06"
+    },
+    "11_043__678": {
+        "vertical_panel": "wood_08",
+        "horizontal_panel": "wood_49"
+    },
+    "11_044__678": {
+        "vertical_panel": "wood_15",
+        "handle": "wood_36",
+        "horizontal_panel": "wood_14",
+        "base": "wood_27"
+    },
+    "11_046__678": {
+        "base": "metal_45",
+        "horizontal_panel": "wood_16",
+        "vertical_panel": "wood_25"
+    },
+    "11_059__678": {
+        "vertical_panel": "metal_34",
+        "handle": "wood_37",
+        "horizontal_panel": "wood_41",
+        "base": "wood_28"
+    },
+    "11_062__678": {
+        "vertical_panel": "metal_20",
+        "handle": "wood_30",
+        "horizontal_panel": "wood_27",
+        "base": "wood_23"
+    },
+    "11_066__678": {
+        "vertical_panel": "wood_51",
+        "handle": "wood_02",
+        "horizontal_panel": "wood_59",
+        "base": "metal_08"
+    },
+    "11_069__678": {
+        "vertical_panel": "metal_51",
+        "base": "wood_15",
+        "handle": "wood_38",
+        "horizontal_panel": "wood_02"
+    },
+    "11_078__678": {
+        "vertical_panel": "wood_37",
+        "handle": "wood_26",
+        "horizontal_panel": "wood_31"
+    },
+    "11_084__678": {
+        "vertical_panel": "wood_43",
+        "handle": "metal_09",
+        "horizontal_panel": "wood_22",
+        "base": "wood_51"
+    },
+    "11_088__678": {
+        "vertical_panel": "metal_64",
+        "handle": "wood_27",
+        "horizontal_panel": "wood_38"
+    },
+    "11_09d__678": {
+        "vertical_panel": "wood_62",
+        "base": "wood_47",
+        "handle": "wood_58",
+        "horizontal_panel": "wood_33"
+    },
+    "11_09f__678": {
+        "vertical_panel": "wood_42",
+        "handle": "metal_59",
+        "horizontal_panel": "wood_03",
+        "base": "wood_54"
+    },
+    "11_0a6__678": {
+        "vertical_panel": "wood_39",
+        "handle": "metal_02",
+        "horizontal_panel": "wood_05"
+    },
+    "11_0ae__678": {
+        "vertical_panel": "wood_29",
+        "handle": "wood_10",
+        "horizontal_panel": "wood_30",
+        "base": "metal_02"
+    },
+    "11_0b0__678": {
+        "base": "wood_17",
+        "horizontal_panel": "wood_01",
+        "vertical_panel": "wood_59"
+    },
+    "11_0b1__678": {
+        "vertical_panel": "metal_31",
+        "base": "metal_16",
+        "handle": "metal_31",
+        "horizontal_panel": "wood_40"
+    },
+    "11_0c0__678": {
+        "vertical_panel": "metal_45",
+        "handle": "metal_35",
+        "horizontal_panel": "wood_10",
+        "base": "wood_47"
+    },
+    "11_0c4__678": {
+        "horizontal_panel": "wood_45",
+        "base": "metal_30",
+        "vertical_panel": "wood_56"
+    },
+    "11_0d5__678": {
+        "vertical_panel": "wood_24",
+        "handle": "metal_21",
+        "horizontal_panel": "wood_13",
+        "base": "metal_61"
+    },
+    "11_0e4__678": {
+        "vertical_panel": "wood_17",
+        "horizontal_panel": "wood_61"
+    },
+    "11_106__678": {
+        "vertical_panel": "metal_64",
+        "handle": "wood_30",
+        "horizontal_panel": "wood_40",
+        "base": "metal_03"
+    },
+    "11_107__678": {
+        "vertical_panel": "metal_04",
+        "handle": "wood_09",
+        "horizontal_panel": "wood_00",
+        "base": "metal_49"
+    },
+    "11_112__678": {
+        "vertical_panel": "metal_24",
+        "handle": "wood_50",
+        "horizontal_panel": "wood_11"
+    },
+    "11_120__678": {
+        "vertical_panel": "metal_64",
+        "handle": "metal_19",
+        "horizontal_panel": "wood_16",
+        "base": "wood_57"
+    },
+    "12_002__678": {
+        "blade": "metal_38",
+        "body": "plastic_10"
+    },
+    "12_010__678": {
+        "blade": "metal_52",
+        "body": "metal_12"
+    },
+    "12_015__678": {
+        "blade": "metal_15",
+        "body": "plastic_06"
+    },
+    "12_017__678": {
+        "blade": "metal_36",
+        "body": "metal_41"
+    },
+    "12_01f__678": {
+        "blade": "plastic_19",
+        "body": "metal_40"
+    },
+    "12_021__678": {
+        "bulb": "glass_02",
+        "blade": "metal_62",
+        "body": "metal_59"
+    },
+    "12_022__678": {
+        "blade": "metal_25",
+        "body": "metal_23"
+    },
+    "12_02a__678": {
+        "blade": "metal_40",
+        "body": "metal_65"
+    },
+    "12_036__678": {
+        "blade": "plastic_17",
+        "body": "metal_49"
+    },
+    "12_039__678": {
+        "blade": "metal_11",
+        "body": "plastic_13"
+    },
+    "12_03a__678": {
+        "blade": "plastic_13",
+        "body": "metal_08"
+    },
+    "12_03d__678": {
+        "bulb": "glass_05",
+        "blade": "plastic_03",
+        "body": "metal_18"
+    },
+    "13_004__678": {
+        "body": "metal_20",
+        "base": "metal_45"
+    },
+    "13_006__678": {
+        "body": "metal_33",
+        "base": "metal_40"
+    },
+    "13_00a__678": {
+        "body": "metal_25",
+        "base": "metal_30"
+    },
+    "13_00d__678": {
+        "body": "metal_48",
+        "faucet_valve": "metal_13",
+        "base": "metal_03"
+    },
+    "13_01d__678": {
+        "body": "metal_16",
+        "base": "metal_62"
+    },
+    "13_01f__678": {
+        "body": "metal_29",
+        "base": "metal_08"
+    },
+    "13_022__678": {
+        "body": "metal_07",
+        "base": "metal_40"
+    },
+    "13_024__678": {
+        "body": "metal_51",
+        "base": "metal_31"
+    },
+    "13_02b__678": {
+        "body": "metal_11",
+        "faucet_valve": "metal_62",
+        "base": "metal_20"
+    },
+    "13_031__678": {
+        "body": "metal_05",
+        "faucet_valve": "metal_53",
+        "base": "metal_26"
+    },
+    "13_03c__678": {
+        "body": "metal_10",
+        "base": "metal_30"
+    },
+    "13_050__678": {
+        "body": "metal_44",
+        "base": "metal_42"
+    },
+    "13_052__678": {
+        "body": "metal_53",
+        "base": "metal_62"
+    },
+    "13_063__678": {
+        "body": "metal_02",
+        "faucet_valve": "metal_42",
+        "base": "metal_10"
+    },
+    "13_075__678": {
+        "body": "metal_21",
+        "base": "metal_34"
+    },
+    "13_076__678": {
+        "body": "metal_64",
+        "faucet_valve": "metal_32",
+        "base": "metal_27"
+    },
+    "13_07b__678": {
+        "body": "metal_26",
+        "faucet_valve": "metal_05",
+        "base": "metal_60"
+    },
+    "13_092__678": {
+        "body": "metal_41",
+        "base": "metal_37"
+    },
+    "13_0a1__678": {
+        "body": "metal_33",
+        "base": "metal_65"
+    },
+    "13_0a4__678": {
+        "body": "metal_40",
+        "faucet_valve": "metal_26",
+        "base": "metal_58"
+    },
+    "13_0ad__678": {
+        "body": "metal_35",
+        "faucet_valve": "metal_08"
+    },
+    "13_0b1__678": {
+        "body": "metal_56",
+        "base": "metal_02"
+    },
+    "14_002__678": {
+        "body": "metal_08",
+        "lid": "metal_22",
+        "handle": "plastic_20"
+    },
+    "14_007__678": {
+        "body": "plastic_03",
+        "lid": "metal_07",
+        "handle": "plastic_04"
+    },
+    "14_008__678": {
+        "body": "plastic_10",
+        "lid": "metal_50",
+        "handle": "plastic_09"
+    },
+    "14_00b__678": {
+        "body": "plastic_12",
+        "lid": "metal_52",
+        "handle": "metal_47"
+    },
+    "14_00d__678": {
+        "body": "plastic_04",
+        "handle": "metal_14"
+    },
+    "14_011__678": {
+        "body": "plastic_12",
+        "lid": "metal_40",
+        "handle": "metal_57"
+    },
+    "14_016__678": {
+        "base": "metal_06",
+        "body": "plastic_03",
+        "lid": "metal_55"
+    },
+    "14_019__678": {
+        "body": "plastic_06",
+        "lid": "metal_25",
+        "handle": "plastic_11"
+    },
+    "14_01b__678": {
+        "body": "metal_45",
+        "lid": "metal_21",
+        "handle": "plastic_01"
+    },
+    "14_021__678": {
+        "body": "metal_53",
+        "lid": "metal_31",
+        "base": "plastic_14"
+    },
+    "14_026__678": {
+        "body": "metal_55",
+        "lid": "metal_28"
+    },
+    "14_03e__678": {
+        "body": "metal_47",
+        "lid": "metal_09",
+        "base": "metal_15"
+    },
+    "14_044__678": {
+        "body": "plastic_00",
+        "lid": "metal_65"
+    },
+    "14_046__678": {
+        "body": "plastic_14",
+        "lid": "metal_26",
+        "handle": "metal_26"
+    },
+    "14_048__678": {
+        "body": "plastic_01",
+        "lid": "metal_52",
+        "base": "plastic_17"
+    },
+    "14_049__678": {
+        "body": "metal_52",
+        "lid": "metal_03"
+    },
+    "14_051__678": {
+        "body": "metal_23",
+        "lid": "metal_10",
+        "base": "metal_17"
+    },
+    "14_054__678": {
+        "body": "plastic_20",
+        "lid": "metal_47",
+        "handle": "plastic_12"
+    },
+    "14_057__678": {
+        "body": "metal_62",
+        "lid": "metal_44",
+        "base": "metal_47"
+    },
+    "14_05b__678": {
+        "body": "metal_40",
+        "base": "metal_29"
+    },
+    "14_05f__678": {
+        "body": "plastic_15",
+        "lid": "metal_43",
+        "handle": "plastic_05"
+    },
+    "14_066__678": {
+        "body": "metal_26",
+        "lid": "metal_25",
+        "handle": "metal_35"
+    },
+    "14_067__678": {
+        "body": "plastic_08",
+        "lid": "metal_21",
+        "handle": "plastic_15"
+    },
+    "14_06c__678": {
+        "body": "metal_18",
+        "lid": "metal_01",
+        "handle": "metal_45"
+    },
+    "14_06f__678": {
+        "body": "metal_57",
+        "lid": "metal_06",
+        "handle": "metal_34",
+        "base": "metal_41"
+    },
+    "14_070__678": {
+        "body": "plastic_18",
+        "lid": "metal_55",
+        "handle": "metal_16"
+    },
+    "14_079__678": {
+        "body": "metal_33",
+        "lid": "metal_32",
+        "handle": "metal_51"
+    },
+    "14_084__678": {
+        "body": "plastic_18",
+        "lid": "metal_57",
+        "base": "metal_36"
+    },
+    "14_092__678": {
+        "body": "plastic_01",
+        "lid": "metal_48",
+        "base": "metal_28"
+    },
+    "15_00a__678": {
+        "base": "metal_03",
+        "roof": "metal_24"
+    },
+    "15_012__678": {
+        "base": "wood_48",
+        "roof": "wood_42"
+    },
+    "15_017__678": {
+        "vertical_panel": "wood_26",
+        "base": "wood_18",
+        "roof": "wood_54"
+    },
+    "15_01a__678": {
+        "vertical_panel": "wood_47",
+        "base": "wood_59",
+        "roof": "metal_09"
+    },
+    "15_01f__678": {
+        "base": "metal_52",
+        "roof": "wood_41"
+    },
+    "15_022__678": {
+        "base": "metal_10",
+        "roof": "metal_14"
+    },
+    "15_028__678": {
+        "base": "plastic_09",
+        "roof": "wood_44"
+    },
+    "15_02d__678": {
+        "base": "metal_08",
+        "roof": "wood_24"
+    },
+    "15_033__678": {
+        "vertical_panel": "wood_02",
+        "base": "plastic_13",
+        "roof": "wood_39"
+    },
+    "15_035__678": {
+        "vertical_panel": "wood_37",
+        "base": "wood_42",
+        "roof": "metal_62"
+    },
+    "15_037__678": {
+        "base": "metal_06",
+        "roof": "metal_16"
+    },
+    "15_03b__678": {
+        "vertical_panel": "wood_20",
+        "base": "plastic_02",
+        "roof": "metal_25"
+    },
+    "15_041__678": {
+        "base": "wood_54",
+        "roof": "metal_46"
+    },
+    "15_047__678": {
+        "base": "metal_47",
+        "roof": "wood_08"
+    },
+    "15_049__678": {
+        "vertical_panel": "wood_24",
+        "base": "plastic_11",
+        "roof": "wood_35"
+    },
+    "15_04c__678": {
+        "vertical_panel": "wood_24",
+        "base": "metal_44",
+        "roof": "metal_43"
+    },
+    "16_010__678": {
+        "handle": "metal_52",
+        "body": "plastic_06"
+    },
+    "16_01e__678": {
+        "handle": "plastic_16",
+        "body": "metal_06",
+        "base": "plastic_14"
+    },
+    "16_024__678": {
+        "handle": "plastic_00",
+        "body": "metal_02"
+    },
+    "16_029__678": {
+        "handle": "metal_26",
+        "body": "plastic_19"
+    },
+    "16_02b__678": {
+        "handle": "plastic_09",
+        "body": "metal_38"
+    },
+    "16_02c__678": {
+        "handle": "metal_06",
+        "body": "metal_27"
+    },
+    "16_039__678": {
+        "handle": "metal_40",
+        "body": "metal_47"
+    },
+    "16_03f__678": {
+        "handle": "plastic_04",
+        "body": "metal_61"
+    },
+    "16_048__678": {
+        "handle": "plastic_19",
+        "body": "metal_36",
+        "base": "plastic_13"
+    },
+    "16_04c__678": {
+        "handle": "metal_62",
+        "body": "metal_54"
+    },
+    "16_068__678": {
+        "handle": "plastic_19",
+        "body": "metal_05"
+    },
+    "16_06a__678": {
+        "handle": "metal_26",
+        "body": "plastic_05"
+    },
+    "16_06c__678": {
+        "handle": "plastic_15",
+        "body": "metal_65"
+    },
+    "16_089__678": {
+        "handle": "plastic_12",
+        "body": "plastic_20"
+    },
+    "16_096__678": {
+        "handle": "plastic_09",
+        "body": "metal_44"
+    },
+    "16_0a9__678": {
+        "handle": "metal_39",
+        "body": "metal_27"
+    },
+    "16_0cb__678": {
+        "handle": "metal_23",
+        "body": "plastic_19"
+    },
+    "16_0cc__678": {
+        "handle": "metal_36",
+        "body": "metal_14",
+        "base": "plastic_14"
+    },
+    "16_0cd__678": {
+        "handle": "metal_08",
+        "body": "plastic_15"
+    },
+    "16_0d5__678": {
+        "handle": "metal_20",
+        "body": "plastic_03",
+        "base": "plastic_14"
+    },
+    "16_0d6__678": {
+        "handle": "plastic_05",
+        "body": "plastic_04"
+    },
+    "16_0e0__678": {
+        "handle": "plastic_06",
+        "body": "plastic_03"
+    },
+    "16_0e8__678": {
+        "handle": "metal_01",
+        "body": "metal_55",
+        "base": "metal_12"
+    },
+    "16_0ee__678": {
+        "handle": "plastic_00",
+        "body": "plastic_00"
+    },
+    "17_005__678": {
+        "ladder_rail": "wood_09",
+        "step": "metal_19"
+    },
+    "17_00e__678": {
+        "ladder_rail": "metal_17",
+        "step": "wood_46"
+    },
+    "17_013__678": {
+        "ladder_rail": "wood_45",
+        "step": "metal_22"
+    },
+    "17_014__678": {
+        "ladder_rail": "plastic_07",
+        "step": "metal_47"
+    },
+    "17_015__678": {
+        "ladder_rail": "wood_45",
+        "step": "metal_40"
+    },
+    "17_01c__678": {
+        "ladder_rail": "metal_19",
+        "step": "metal_17"
+    },
+    "17_020__678": {
+        "ladder_rail": "metal_03",
+        "step": "wood_29"
+    },
+    "17_021__678": {
+        "ladder_rail": "wood_07",
+        "step": "metal_03"
+    },
+    "17_027__678": {
+        "ladder_rail": "metal_58",
+        "step": "wood_56"
+    },
+    "18_003__678": {
+        "bulb": "glass_01",
+        "base": "plastic_20",
+        "lamp_cover": "metal_59"
+    },
+    "18_004__678": {
+        "bulb": "glass_03",
+        "lamp_cover": "fabric_12",
+        "base": "metal_58"
+    },
+    "18_016__678": {
+        "bulb": "glass_03",
+        "base": "metal_47",
+        "lamp_cover": "metal_45"
+    },
+    "18_020__678": {
+        "bulb": "glass_02",
+        "base": "metal_57",
+        "lamp_cover": "metal_05"
+    },
+    "18_042__678": {
+        "bulb": "glass_04",
+        "base": "metal_00",
+        "lamp_cover": "fabric_06"
+    },
+    "18_049__678": {
+        "bulb": "glass_02",
+        "lamp_cover": "fabric_14",
+        "base": "plastic_12"
+    },
+    "18_04b__678": {
+        "bulb": "glass_02",
+        "base": "wood_36",
+        "lamp_cover": "metal_63"
+    },
+    "18_04f__678": {
+        "bulb": "glass_01",
+        "base": "wood_22"
+    },
+    "18_059__678": {
+        "bulb": "glass_03",
+        "lamp_cover": "metal_15",
+        "base": "plastic_05"
+    },
+    "18_05f__678": {
+        "bulb": "glass_05",
+        "lamp_cover": "fabric_01",
+        "base": "metal_31"
+    },
+    "18_064__678": {
+        "bulb": "glass_05",
+        "base": "wood_19"
+    },
+    "18_072__678": {
+        "bulb": "glass_01",
+        "base": "plastic_02",
+        "lamp_cover": "metal_41"
+    },
+    "18_083__678": {
+        "bulb": "glass_04",
+        "base": "plastic_07",
+        "lamp_cover": "fabric_00"
+    },
+    "18_08e__678": {
+        "bulb": "glass_01",
+        "base": "plastic_17",
+        "lamp_cover": "metal_06"
+    },
+    "18_08f__678": {
+        "bulb": "glass_02",
+        "base": "metal_23",
+        "lamp_cover": "fabric_05"
+    },
+    "18_096__678": {
+        "bulb": "glass_01",
+        "base": "plastic_01",
+        "lamp_cover": "fabric_02"
+    },
+    "18_097__678": {
+        "bulb": "glass_01",
+        "base": "plastic_19",
+        "lamp_cover": "metal_14"
+    },
+    "18_09d__678": {
+        "bulb": "glass_01",
+        "lamp_cover": "metal_55",
+        "base": "plastic_10"
+    },
+    "18_0a0__678": {
+        "bulb": "glass_04",
+        "lamp_cover": "fabric_23",
+        "base": "metal_06"
+    },
+    "18_0a2__678": {
+        "bulb": "glass_04",
+        "lamp_cover": "metal_13",
+        "base": "plastic_03"
+    },
+    "18_0a9__678": {
+        "bulb": "glass_02",
+        "lamp_cover": "metal_26",
+        "base": "wood_47"
+    },
+    "18_0ab__678": {
+        "bulb": "glass_05",
+        "base": "metal_16",
+        "lamp_cover": "metal_40"
+    },
+    "18_0b1__678": {
+        "bulb": "glass_01",
+        "base": "wood_35",
+        "lamp_cover": "fabric_17"
+    },
+    "18_0d1__678": {
+        "bulb": "glass_03",
+        "base": "plastic_16",
+        "lamp_cover": "metal_04"
+    },
+    "18_0d4__678": {
+        "bulb": "glass_00",
+        "lamp_cover": "fabric_30",
+        "base": "plastic_07"
+    },
+    "18_0fb__678": {
+        "bulb": "glass_04",
+        "lamp_cover": "fabric_16",
+        "base": "plastic_11"
+    },
+    "18_106__678": {
+        "bulb": "glass_04",
+        "base": "metal_03",
+        "lamp_cover": "fabric_19"
+    },
+    "18_107__678": {
+        "bulb": "glass_01",
+        "base": "wood_49",
+        "lamp_cover": "fabric_23"
+    },
+    "18_113__678": {
+        "bulb": "glass_01",
+        "base": "plastic_18",
+        "lamp_cover": "metal_61"
+    },
+    "18_134__678": {
+        "bulb": "glass_01",
+        "base": "wood_50"
+    },
+    "18_13a__678": {
+        "bulb": "glass_02",
+        "base": "metal_02",
+        "lamp_cover": "metal_27"
+    },
+    "18_148__678": {
+        "bulb": "glass_04",
+        "base": "metal_04",
+        "lamp_cover": "metal_57"
+    },
+    "18_16f__678": {
+        "bulb": "glass_01",
+        "base": "metal_42",
+        "lamp_cover": "metal_37"
+    },
+    "18_171__678": {
+        "bulb": "glass_03",
+        "base": "metal_49",
+        "lamp_cover": "fabric_29"
+    },
+    "18_178__678": {
+        "bulb": "glass_02",
+        "lamp_cover": "fabric_14",
+        "base": "wood_50"
+    },
+    "18_17a__678": {
+        "bulb": "glass_00",
+        "base": "wood_15",
+        "lamp_cover": "fabric_10"
+    },
+    "18_183__678": {
+        "bulb": "glass_01",
+        "base": "wood_63",
+        "lamp_cover": "metal_20"
+    },
+    "18_18d__678": {
+        "bulb": "glass_03",
+        "base": "plastic_15",
+        "lamp_cover": "fabric_25"
+    },
+    "18_194__678": {
+        "bulb": "glass_04",
+        "lamp_cover": "fabric_21",
+        "base": "metal_45"
+    },
+    "18_1a4__678": {
+        "bulb": "glass_04",
+        "base": "metal_41",
+        "lamp_cover": "metal_16"
+    },
+    "18_1a7__678": {
+        "bulb": "glass_04",
+        "lamp_cover": "fabric_12",
+        "base": "metal_61"
+    },
+    "18_1b0__678": {
+        "bulb": "glass_01",
+        "base": "wood_33",
+        "lamp_cover": "metal_58"
+    },
+    "18_1b9__678": {
+        "bulb": "glass_05",
+        "lamp_cover": "metal_25",
+        "base": "wood_44"
+    },
+    "18_1e5__678": {
+        "bulb": "glass_04",
+        "base": "wood_53",
+        "lamp_cover": "metal_39"
+    },
+    "18_1eb__678": {
+        "bulb": "glass_01",
+        "base": "plastic_02",
+        "lamp_cover": "fabric_23"
+    },
+    "18_1f1__678": {
+        "bulb": "glass_02",
+        "lamp_cover": "metal_09",
+        "base": "wood_57"
+    },
+    "18_1f5__678": {
+        "bulb": "glass_01",
+        "base": "metal_14",
+        "lamp_cover": "fabric_25"
+    },
+    "18_1f6__678": {
+        "bulb": "glass_03",
+        "base": "metal_04"
+    },
+    "18_1f9__678": {
+        "bulb": "glass_03",
+        "base": "wood_17",
+        "lamp_cover": "fabric_17"
+    },
+    "19_003__678": {
+        "armrest": "fabric_24",
+        "backrest": "leather_06",
+        "base": "metal_54",
+        "seat": "fabric_02"
+    },
+    "19_006__678": {
+        "armrest": "leather_23",
+        "backrest": "leather_32",
+        "base": "metal_04",
+        "seat": "fabric_18"
+    },
+    "19_007__678": {
+        "armrest": "leather_09",
+        "backrest": "fabric_04",
+        "base": "wood_54",
+        "seat": "leather_01"
+    },
+    "19_00b__678": {
+        "armrest": "fabric_12",
+        "backrest": "leather_26",
+        "base": "metal_51",
+        "seat": "leather_19"
+    },
+    "19_018__678": {
+        "armrest": "leather_03",
+        "backrest": "fabric_00",
+        "base": "metal_31",
+        "pillow": "leather_18",
+        "seat": "leather_00"
+    },
+    "19_021__678": {
+        "armrest": "leather_04",
+        "backrest": "leather_16",
+        "base": "metal_32",
+        "seat": "wood_04"
+    },
+    "19_028__678": {
+        "armrest": "leather_08",
+        "backrest": "leather_30",
+        "base": "metal_41",
+        "seat": "leather_32"
+    },
+    "19_029__678": {
+        "armrest": "fabric_06",
+        "backrest": "leather_14",
+        "pillow": "fabric_13",
+        "seat": "leather_11"
+    },
+    "19_034__678": {
+        "armrest": "fabric_22",
+        "backrest": "wood_21",
+        "base": "metal_05",
+        "pillow": "leather_04",
+        "seat": "fabric_05"
+    },
+    "19_036__678": {
+        "backrest": "leather_20",
+        "base": "metal_39",
+        "pillow": "leather_23",
+        "seat": "wood_00"
+    },
+    "19_03b__678": {
+        "armrest": "fabric_07",
+        "backrest": "fabric_20",
+        "base": "metal_04",
+        "seat": "fabric_07"
+    },
+    "19_03d__678": {
+        "armrest": "fabric_15",
+        "backrest": "fabric_14",
+        "base": "wood_29",
+        "pillow": "fabric_25",
+        "seat": "wood_59"
+    },
+    "19_046__678": {
+        "armrest": "fabric_26",
+        "backrest": "leather_09",
+        "base": "metal_53",
+        "seat": "fabric_00"
+    },
+    "19_04b__678": {
+        "armrest": "fabric_19",
+        "backrest": "leather_30",
+        "base": "metal_34",
+        "seat": "leather_33"
+    },
+    "19_04c__678": {
+        "armrest": "fabric_11",
+        "backrest": "leather_21",
+        "base": "metal_53",
+        "pillow": "fabric_07",
+        "seat": "fabric_12"
+    },
+    "19_04d__678": {
+        "backrest": "leather_22",
+        "base": "metal_11",
+        "pillow": "fabric_13",
+        "seat": "leather_03"
+    },
+    "19_053__678": {
+        "armrest": "fabric_01",
+        "backrest": "leather_11",
+        "base": "wood_61",
+        "pillow": "leather_00",
+        "seat": "wood_38"
+    },
+    "19_059__678": {
+        "armrest": "leather_23",
+        "backrest": "fabric_29",
+        "base": "metal_64",
+        "seat": "fabric_04"
+    },
+    "19_05d__678": {
+        "armrest": "leather_28",
+        "backrest": "wood_61",
+        "base": "metal_33",
+        "seat": "wood_18"
+    },
+    "19_063__678": {
+        "armrest": "leather_06",
+        "backrest": "metal_45",
+        "base": "metal_06",
+        "seat": "leather_30"
+    },
+    "19_064__678": {
+        "armrest": "fabric_07",
+        "backrest": "leather_13",
+        "base": "metal_24",
+        "seat": "leather_25"
+    },
+    "19_065__678": {
+        "armrest": "fabric_00",
+        "backrest": "leather_19",
+        "base": "metal_23",
+        "seat": "leather_22"
+    },
+    "19_069__678": {
+        "armrest": "leather_20",
+        "backrest": "metal_11",
+        "base": "metal_35",
+        "pillow": "leather_29",
+        "seat": "fabric_00"
+    },
+    "19_06c__678": {
+        "armrest": "leather_21",
+        "backrest": "leather_13",
+        "base": "metal_32",
+        "seat": "metal_22"
+    },
+    "19_073__678": {
+        "armrest": "leather_30",
+        "backrest": "fabric_00",
+        "base": "metal_58",
+        "seat": "fabric_31"
+    },
+    "19_075__1000": {
+        "armrest": "leather_22",
+        "backrest": "fabric_17",
+        "base": "wood_37",
+        "seat": "fabric_20"
+    },
+    "19_075__1001": {
+        "armrest": "leather_09",
+        "backrest": "fabric_10",
+        "base": "metal_44",
+        "seat": "leather_19"
+    },
+    "19_075__1002": {
+        "armrest": "fabric_23",
+        "backrest": "leather_30",
+        "base": "metal_61",
+        "seat": "fabric_13"
+    },
+    "19_075__1003": {
+        "armrest": "fabric_29",
+        "backrest": "leather_11",
+        "base": "metal_27",
+        "seat": "fabric_11"
+    },
+    "19_075__1004": {
+        "armrest": "fabric_20",
+        "backrest": "fabric_03",
+        "base": "metal_01",
+        "seat": "leather_08"
+    },
+    "19_075__1005": {
+        "armrest": "leather_21",
+        "backrest": "fabric_18",
+        "base": "wood_03",
+        "seat": "leather_10"
+    },
+    "19_075__1006": {
+        "armrest": "leather_30",
+        "backrest": "fabric_31",
+        "base": "wood_00",
+        "seat": "leather_33"
+    },
+    "19_075__1007": {
+        "armrest": "leather_30",
+        "backrest": "fabric_02",
+        "base": "metal_43",
+        "seat": "fabric_18"
+    },
+    "19_075__1008": {
+        "armrest": "fabric_10",
+        "backrest": "fabric_25",
+        "base": "wood_23",
+        "seat": "fabric_04"
+    },
+    "19_075__1009": {
+        "armrest": "leather_00",
+        "backrest": "leather_31",
+        "base": "metal_56",
+        "seat": "leather_19"
+    },
+    "19_075__1010": {
+        "armrest": "fabric_12",
+        "backrest": "fabric_28",
+        "base": "wood_36",
+        "seat": "leather_09"
+    },
+    "19_075__1011": {
+        "armrest": "leather_12",
+        "backrest": "leather_20",
+        "base": "metal_47",
+        "seat": "leather_19"
+    },
+    "19_075__1012": {
+        "armrest": "fabric_15",
+        "backrest": "leather_13",
+        "base": "wood_58",
+        "seat": "leather_07"
+    },
+    "19_075__1013": {
+        "armrest": "leather_08",
+        "backrest": "leather_24",
+        "base": "wood_42",
+        "seat": "fabric_23"
+    },
+    "19_075__1014": {
+        "armrest": "fabric_08",
+        "backrest": "leather_27",
+        "base": "metal_00",
+        "seat": "leather_25"
+    },
+    "19_075__1015": {
+        "armrest": "leather_25",
+        "backrest": "leather_06",
+        "base": "wood_57",
+        "seat": "leather_25"
+    },
+    "19_075__1016": {
+        "armrest": "fabric_18",
+        "backrest": "fabric_31",
+        "base": "wood_58",
+        "seat": "fabric_07"
+    },
+    "19_075__1017": {
+        "armrest": "fabric_29",
+        "backrest": "leather_27",
+        "base": "metal_39",
+        "seat": "fabric_19"
+    },
+    "19_075__1018": {
+        "armrest": "leather_16",
+        "backrest": "leather_04",
+        "base": "metal_65",
+        "seat": "fabric_27"
+    },
+    "19_075__1019": {
+        "armrest": "leather_33",
+        "backrest": "fabric_05",
+        "base": "metal_32",
+        "seat": "leather_23"
+    },
+    "19_075__1020": {
+        "armrest": "leather_30",
+        "backrest": "leather_02",
+        "base": "metal_38",
+        "seat": "leather_20"
+    },
+    "19_075__1021": {
+        "armrest": "fabric_28",
+        "backrest": "leather_04",
+        "base": "wood_54",
+        "seat": "leather_08"
+    },
+    "19_075__1022": {
+        "armrest": "leather_32",
+        "backrest": "fabric_21",
+        "base": "metal_45",
+        "seat": "leather_33"
+    },
+    "19_075__1023": {
+        "armrest": "fabric_26",
+        "backrest": "fabric_13",
+        "base": "wood_23",
+        "seat": "leather_12"
+    },
+    "19_075__1024": {
+        "armrest": "leather_18",
+        "backrest": "leather_02",
+        "base": "metal_29",
+        "seat": "leather_01"
+    },
+    "19_075__1025": {
+        "armrest": "leather_18",
+        "backrest": "fabric_21",
+        "base": "metal_37",
+        "seat": "fabric_24"
+    },
+    "19_075__1026": {
+        "armrest": "fabric_20",
+        "backrest": "leather_22",
+        "base": "metal_16",
+        "seat": "leather_00"
+    },
+    "19_075__1027": {
+        "armrest": "leather_05",
+        "backrest": "leather_07",
+        "base": "metal_61",
+        "seat": "fabric_15"
+    },
+    "19_075__1028": {
+        "armrest": "fabric_11",
+        "backrest": "leather_03",
+        "base": "metal_01",
+        "seat": "fabric_05"
+    },
+    "19_075__1029": {
+        "armrest": "leather_20",
+        "backrest": "leather_15",
+        "base": "wood_37",
+        "seat": "fabric_04"
+    },
+    "19_075__1030": {
+        "armrest": "fabric_28",
+        "backrest": "leather_30",
+        "base": "wood_13",
+        "seat": "fabric_31"
+    },
+    "19_075__1031": {
+        "armrest": "fabric_14",
+        "backrest": "fabric_20",
+        "base": "metal_27",
+        "seat": "leather_12"
+    },
+    "19_075__1032": {
+        "armrest": "leather_02",
+        "backrest": "fabric_08",
+        "base": "wood_51",
+        "seat": "fabric_00"
+    },
+    "19_075__1033": {
+        "armrest": "leather_21",
+        "backrest": "fabric_15",
+        "base": "wood_50",
+        "seat": "leather_23"
+    },
+    "19_075__1034": {
+        "armrest": "leather_29",
+        "backrest": "fabric_25",
+        "base": "metal_06",
+        "seat": "leather_14"
+    },
+    "19_075__1035": {
+        "armrest": "fabric_11",
+        "backrest": "fabric_31",
+        "base": "metal_00",
+        "seat": "fabric_02"
+    },
+    "19_075__1036": {
+        "armrest": "leather_12",
+        "backrest": "leather_04",
+        "base": "wood_02",
+        "seat": "leather_12"
+    },
+    "19_075__1037": {
+        "armrest": "leather_18",
+        "backrest": "leather_21",
+        "base": "wood_08",
+        "seat": "fabric_05"
+    },
+    "19_075__1038": {
+        "armrest": "leather_33",
+        "backrest": "leather_25",
+        "base": "wood_37",
+        "seat": "leather_18"
+    },
+    "19_075__1039": {
+        "armrest": "leather_21",
+        "backrest": "leather_19",
+        "base": "wood_41",
+        "seat": "leather_10"
+    },
+    "19_075__1040": {
+        "armrest": "leather_07",
+        "backrest": "leather_30",
+        "base": "metal_19",
+        "seat": "fabric_15"
+    },
+    "19_075__1041": {
+        "armrest": "leather_14",
+        "backrest": "leather_08",
+        "base": "wood_54",
+        "seat": "fabric_26"
+    },
+    "19_075__1042": {
+        "armrest": "fabric_14",
+        "backrest": "leather_06",
+        "base": "wood_40",
+        "seat": "fabric_09"
+    },
+    "19_075__1043": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_25",
+        "base": "metal_44",
+        "seat": "fabric_30"
+    },
+    "19_075__1044": {
+        "armrest": "fabric_13",
+        "backrest": "fabric_15",
+        "base": "wood_15",
+        "seat": "leather_33"
+    },
+    "19_075__1045": {
+        "armrest": "leather_16",
+        "backrest": "leather_27",
+        "base": "wood_29",
+        "seat": "fabric_03"
+    },
+    "19_075__1046": {
+        "armrest": "fabric_23",
+        "backrest": "fabric_30",
+        "base": "metal_60",
+        "seat": "leather_31"
+    },
+    "19_075__1047": {
+        "armrest": "leather_15",
+        "backrest": "fabric_29",
+        "base": "metal_51",
+        "seat": "fabric_16"
+    },
+    "19_075__1048": {
+        "armrest": "fabric_07",
+        "backrest": "leather_07",
+        "base": "metal_64",
+        "seat": "leather_06"
+    },
+    "19_075__1049": {
+        "armrest": "fabric_18",
+        "backrest": "fabric_01",
+        "base": "metal_24",
+        "seat": "leather_06"
+    },
+    "19_075__1050": {
+        "armrest": "leather_09",
+        "backrest": "fabric_19",
+        "base": "metal_45",
+        "seat": "leather_21"
+    },
+    "19_075__1051": {
+        "armrest": "fabric_08",
+        "backrest": "fabric_10",
+        "base": "metal_10",
+        "seat": "fabric_13"
+    },
+    "19_075__1052": {
+        "armrest": "leather_04",
+        "backrest": "leather_10",
+        "base": "metal_24",
+        "seat": "leather_00"
+    },
+    "19_075__1053": {
+        "armrest": "fabric_02",
+        "backrest": "fabric_02",
+        "base": "wood_19",
+        "seat": "fabric_21"
+    },
+    "19_075__1054": {
+        "armrest": "fabric_20",
+        "backrest": "fabric_05",
+        "base": "wood_33",
+        "seat": "leather_32"
+    },
+    "19_075__1055": {
+        "armrest": "leather_27",
+        "backrest": "fabric_20",
+        "base": "metal_44",
+        "seat": "leather_29"
+    },
+    "19_075__1056": {
+        "armrest": "leather_22",
+        "backrest": "leather_18",
+        "base": "metal_04",
+        "seat": "fabric_24"
+    },
+    "19_075__1057": {
+        "armrest": "leather_04",
+        "backrest": "fabric_24",
+        "base": "metal_08",
+        "seat": "leather_28"
+    },
+    "19_075__1058": {
+        "armrest": "fabric_17",
+        "backrest": "fabric_17",
+        "base": "wood_46",
+        "seat": "fabric_27"
+    },
+    "19_075__1059": {
+        "armrest": "leather_18",
+        "backrest": "leather_09",
+        "base": "wood_55",
+        "seat": "fabric_31"
+    },
+    "19_075__1060": {
+        "armrest": "fabric_22",
+        "backrest": "leather_09",
+        "base": "wood_29",
+        "seat": "leather_05"
+    },
+    "19_075__1061": {
+        "armrest": "leather_33",
+        "backrest": "fabric_08",
+        "base": "metal_02",
+        "seat": "fabric_26"
+    },
+    "19_075__1062": {
+        "armrest": "leather_13",
+        "backrest": "fabric_01",
+        "base": "metal_13",
+        "seat": "fabric_31"
+    },
+    "19_075__1063": {
+        "armrest": "leather_24",
+        "backrest": "leather_13",
+        "base": "metal_17",
+        "seat": "leather_07"
+    },
+    "19_075__1064": {
+        "armrest": "fabric_05",
+        "backrest": "fabric_21",
+        "base": "metal_00",
+        "seat": "leather_24"
+    },
+    "19_075__1065": {
+        "armrest": "leather_07",
+        "backrest": "leather_30",
+        "base": "metal_15",
+        "seat": "leather_05"
+    },
+    "19_075__1066": {
+        "armrest": "fabric_19",
+        "backrest": "fabric_29",
+        "base": "metal_03",
+        "seat": "leather_23"
+    },
+    "19_075__1067": {
+        "armrest": "fabric_06",
+        "backrest": "fabric_28",
+        "base": "metal_11",
+        "seat": "fabric_30"
+    },
+    "19_075__1068": {
+        "armrest": "fabric_29",
+        "backrest": "fabric_05",
+        "base": "metal_14",
+        "seat": "leather_22"
+    },
+    "19_075__1069": {
+        "armrest": "fabric_13",
+        "backrest": "leather_07",
+        "base": "metal_38",
+        "seat": "fabric_08"
+    },
+    "19_075__1070": {
+        "armrest": "leather_19",
+        "backrest": "fabric_13",
+        "base": "metal_06",
+        "seat": "fabric_05"
+    },
+    "19_075__1071": {
+        "armrest": "fabric_04",
+        "backrest": "fabric_02",
+        "base": "metal_62",
+        "seat": "leather_09"
+    },
+    "19_075__1072": {
+        "armrest": "fabric_17",
+        "backrest": "leather_21",
+        "base": "wood_27",
+        "seat": "fabric_24"
+    },
+    "19_075__1073": {
+        "armrest": "leather_10",
+        "backrest": "fabric_21",
+        "base": "wood_18",
+        "seat": "fabric_26"
+    },
+    "19_075__1074": {
+        "armrest": "fabric_23",
+        "backrest": "leather_32",
+        "base": "wood_47",
+        "seat": "fabric_10"
+    },
+    "19_075__1075": {
+        "armrest": "leather_01",
+        "backrest": "leather_01",
+        "base": "wood_22",
+        "seat": "fabric_02"
+    },
+    "19_075__1076": {
+        "armrest": "fabric_29",
+        "backrest": "fabric_27",
+        "base": "metal_16",
+        "seat": "leather_10"
+    },
+    "19_075__1077": {
+        "armrest": "leather_03",
+        "backrest": "leather_05",
+        "base": "metal_38",
+        "seat": "fabric_23"
+    },
+    "19_075__1078": {
+        "armrest": "leather_32",
+        "backrest": "fabric_06",
+        "base": "wood_05",
+        "seat": "leather_24"
+    },
+    "19_075__1079": {
+        "armrest": "leather_07",
+        "backrest": "fabric_29",
+        "base": "metal_11",
+        "seat": "leather_17"
+    },
+    "19_075__1080": {
+        "armrest": "fabric_19",
+        "backrest": "leather_21",
+        "base": "wood_27",
+        "seat": "fabric_01"
+    },
+    "19_075__1081": {
+        "armrest": "leather_26",
+        "backrest": "leather_28",
+        "base": "metal_59",
+        "seat": "leather_15"
+    },
+    "19_075__1082": {
+        "armrest": "leather_25",
+        "backrest": "fabric_02",
+        "base": "wood_27",
+        "seat": "leather_15"
+    },
+    "19_075__1083": {
+        "armrest": "leather_09",
+        "backrest": "fabric_06",
+        "base": "wood_28",
+        "seat": "leather_14"
+    },
+    "19_075__1084": {
+        "armrest": "leather_22",
+        "backrest": "leather_04",
+        "base": "wood_00",
+        "seat": "leather_30"
+    },
+    "19_075__1085": {
+        "armrest": "fabric_26",
+        "backrest": "fabric_08",
+        "base": "metal_01",
+        "seat": "fabric_14"
+    },
+    "19_075__1086": {
+        "armrest": "leather_26",
+        "backrest": "leather_33",
+        "base": "metal_54",
+        "seat": "leather_03"
+    },
+    "19_075__1087": {
+        "armrest": "leather_11",
+        "backrest": "leather_11",
+        "base": "metal_14",
+        "seat": "fabric_02"
+    },
+    "19_075__1088": {
+        "armrest": "leather_31",
+        "backrest": "leather_11",
+        "base": "metal_57",
+        "seat": "leather_08"
+    },
+    "19_075__1089": {
+        "armrest": "leather_10",
+        "backrest": "leather_06",
+        "base": "metal_09",
+        "seat": "leather_28"
+    },
+    "19_075__1090": {
+        "armrest": "fabric_24",
+        "backrest": "leather_26",
+        "base": "wood_30",
+        "seat": "leather_19"
+    },
+    "19_075__1091": {
+        "armrest": "fabric_01",
+        "backrest": "leather_05",
+        "base": "metal_21",
+        "seat": "fabric_10"
+    },
+    "19_075__1092": {
+        "armrest": "fabric_24",
+        "backrest": "fabric_21",
+        "base": "metal_02",
+        "seat": "leather_20"
+    },
+    "19_075__1093": {
+        "armrest": "fabric_14",
+        "backrest": "fabric_23",
+        "base": "wood_00",
+        "seat": "leather_09"
+    },
+    "19_075__1094": {
+        "armrest": "fabric_08",
+        "backrest": "fabric_11",
+        "base": "metal_34",
+        "seat": "fabric_04"
+    },
+    "19_075__1095": {
+        "armrest": "fabric_13",
+        "backrest": "fabric_27",
+        "base": "metal_03",
+        "seat": "leather_06"
+    },
+    "19_075__1096": {
+        "armrest": "fabric_18",
+        "backrest": "fabric_31",
+        "base": "metal_48",
+        "seat": "fabric_03"
+    },
+    "19_075__1097": {
+        "armrest": "fabric_02",
+        "backrest": "leather_03",
+        "base": "metal_04",
+        "seat": "leather_24"
+    },
+    "19_075__1098": {
+        "armrest": "leather_15",
+        "backrest": "fabric_16",
+        "base": "metal_54",
+        "seat": "fabric_05"
+    },
+    "19_075__1099": {
+        "armrest": "leather_23",
+        "backrest": "leather_32",
+        "base": "metal_47",
+        "seat": "fabric_05"
+    },
+    "19_075__1100": {
+        "armrest": "leather_22",
+        "backrest": "leather_33",
+        "base": "wood_05",
+        "seat": "fabric_30"
+    },
+    "19_075__1101": {
+        "armrest": "fabric_08",
+        "backrest": "fabric_09",
+        "base": "metal_04",
+        "seat": "fabric_23"
+    },
+    "19_075__1102": {
+        "armrest": "leather_15",
+        "backrest": "leather_07",
+        "base": "metal_01",
+        "seat": "leather_22"
+    },
+    "19_075__678": {
+        "armrest": "leather_06",
+        "backrest": "fabric_13",
+        "base": "metal_08",
+        "seat": "leather_09"
+    },
+    "19_075__864": {
+        "armrest": "leather_15",
+        "backrest": "leather_02",
+        "base": "wood_11",
+        "seat": "leather_18"
+    },
+    "19_075__865": {
+        "armrest": "leather_03",
+        "backrest": "leather_04",
+        "base": "wood_59",
+        "seat": "fabric_24"
+    },
+    "19_075__866": {
+        "armrest": "leather_21",
+        "backrest": "fabric_25",
+        "base": "wood_06",
+        "seat": "leather_12"
+    },
+    "19_075__867": {
+        "armrest": "fabric_06",
+        "backrest": "leather_25",
+        "base": "wood_03",
+        "seat": "fabric_13"
+    },
+    "19_075__868": {
+        "armrest": "leather_03",
+        "backrest": "fabric_03",
+        "base": "wood_39",
+        "seat": "leather_10"
+    },
+    "19_075__869": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_19",
+        "base": "wood_02",
+        "seat": "leather_17"
+    },
+    "19_075__870": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_17",
+        "base": "metal_04",
+        "seat": "fabric_22"
+    },
+    "19_075__871": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_16",
+        "base": "wood_60",
+        "seat": "leather_17"
+    },
+    "19_075__872": {
+        "armrest": "fabric_31",
+        "backrest": "fabric_25",
+        "base": "wood_08",
+        "seat": "leather_28"
+    },
+    "19_075__873": {
+        "armrest": "fabric_20",
+        "backrest": "leather_05",
+        "base": "metal_52",
+        "seat": "leather_22"
+    },
+    "19_075__874": {
+        "armrest": "fabric_07",
+        "backrest": "leather_02",
+        "base": "metal_12",
+        "seat": "fabric_28"
+    },
+    "19_075__875": {
+        "armrest": "leather_14",
+        "backrest": "leather_17",
+        "base": "wood_37",
+        "seat": "leather_02"
+    },
+    "19_075__876": {
+        "armrest": "fabric_14",
+        "backrest": "fabric_10",
+        "base": "metal_52",
+        "seat": "leather_04"
+    },
+    "19_075__877": {
+        "armrest": "leather_04",
+        "backrest": "leather_32",
+        "base": "metal_28",
+        "seat": "leather_20"
+    },
+    "19_075__878": {
+        "armrest": "fabric_19",
+        "backrest": "fabric_15",
+        "base": "wood_60",
+        "seat": "leather_32"
+    },
+    "19_075__879": {
+        "armrest": "leather_02",
+        "backrest": "fabric_04",
+        "base": "wood_57",
+        "seat": "leather_30"
+    },
+    "19_075__880": {
+        "armrest": "fabric_27",
+        "backrest": "fabric_29",
+        "base": "wood_03",
+        "seat": "fabric_18"
+    },
+    "19_075__881": {
+        "armrest": "leather_18",
+        "backrest": "leather_06",
+        "base": "metal_23",
+        "seat": "fabric_16"
+    },
+    "19_075__882": {
+        "armrest": "fabric_29",
+        "backrest": "leather_26",
+        "base": "wood_13",
+        "seat": "leather_05"
+    },
+    "19_075__883": {
+        "armrest": "fabric_06",
+        "backrest": "leather_03",
+        "base": "wood_50",
+        "seat": "fabric_29"
+    },
+    "19_075__884": {
+        "armrest": "fabric_13",
+        "backrest": "fabric_25",
+        "base": "metal_11",
+        "seat": "leather_03"
+    },
+    "19_075__885": {
+        "armrest": "leather_14",
+        "backrest": "leather_04",
+        "base": "wood_41",
+        "seat": "leather_00"
+    },
+    "19_075__886": {
+        "armrest": "leather_03",
+        "backrest": "leather_10",
+        "base": "wood_05",
+        "seat": "leather_05"
+    },
+    "19_075__887": {
+        "armrest": "leather_31",
+        "backrest": "fabric_21",
+        "base": "wood_53",
+        "seat": "leather_31"
+    },
+    "19_075__888": {
+        "armrest": "fabric_03",
+        "backrest": "fabric_13",
+        "base": "wood_51",
+        "seat": "leather_28"
+    },
+    "19_075__889": {
+        "armrest": "leather_04",
+        "backrest": "fabric_00",
+        "base": "metal_50",
+        "seat": "fabric_29"
+    },
+    "19_075__890": {
+        "armrest": "fabric_22",
+        "backrest": "leather_26",
+        "base": "metal_34",
+        "seat": "leather_28"
+    },
+    "19_075__891": {
+        "armrest": "leather_17",
+        "backrest": "leather_20",
+        "base": "metal_35",
+        "seat": "fabric_09"
+    },
+    "19_075__892": {
+        "armrest": "leather_24",
+        "backrest": "fabric_28",
+        "base": "wood_40",
+        "seat": "leather_11"
+    },
+    "19_075__893": {
+        "armrest": "fabric_07",
+        "backrest": "fabric_05",
+        "base": "wood_08",
+        "seat": "fabric_07"
+    },
+    "19_075__894": {
+        "armrest": "leather_16",
+        "backrest": "leather_20",
+        "base": "wood_31",
+        "seat": "leather_09"
+    },
+    "19_075__895": {
+        "armrest": "fabric_08",
+        "backrest": "leather_09",
+        "base": "wood_11",
+        "seat": "leather_08"
+    },
+    "19_075__896": {
+        "armrest": "leather_09",
+        "backrest": "fabric_29",
+        "base": "wood_59",
+        "seat": "leather_02"
+    },
+    "19_075__897": {
+        "armrest": "fabric_00",
+        "backrest": "fabric_20",
+        "base": "metal_07",
+        "seat": "fabric_02"
+    },
+    "19_075__898": {
+        "armrest": "leather_29",
+        "backrest": "leather_01",
+        "base": "wood_39",
+        "seat": "fabric_11"
+    },
+    "19_075__899": {
+        "armrest": "fabric_22",
+        "backrest": "fabric_25",
+        "base": "metal_25",
+        "seat": "fabric_17"
+    },
+    "19_075__900": {
+        "armrest": "fabric_04",
+        "backrest": "fabric_21",
+        "base": "metal_51",
+        "seat": "fabric_23"
+    },
+    "19_075__901": {
+        "armrest": "fabric_30",
+        "backrest": "leather_14",
+        "base": "metal_63",
+        "seat": "fabric_20"
+    },
+    "19_075__902": {
+        "armrest": "fabric_21",
+        "backrest": "leather_06",
+        "base": "wood_33",
+        "seat": "leather_16"
+    },
+    "19_075__903": {
+        "armrest": "leather_05",
+        "backrest": "leather_02",
+        "base": "wood_36",
+        "seat": "fabric_28"
+    },
+    "19_075__904": {
+        "armrest": "leather_20",
+        "backrest": "leather_33",
+        "base": "metal_00",
+        "seat": "leather_05"
+    },
+    "19_075__905": {
+        "armrest": "fabric_03",
+        "backrest": "fabric_22",
+        "base": "metal_52",
+        "seat": "leather_01"
+    },
+    "19_075__906": {
+        "armrest": "leather_30",
+        "backrest": "leather_04",
+        "base": "wood_17",
+        "seat": "fabric_06"
+    },
+    "19_075__907": {
+        "armrest": "leather_01",
+        "backrest": "fabric_04",
+        "base": "wood_44",
+        "seat": "leather_06"
+    },
+    "19_075__908": {
+        "armrest": "fabric_03",
+        "backrest": "fabric_03",
+        "base": "wood_43",
+        "seat": "fabric_12"
+    },
+    "19_075__909": {
+        "armrest": "fabric_15",
+        "backrest": "leather_06",
+        "base": "wood_35",
+        "seat": "fabric_12"
+    },
+    "19_075__910": {
+        "armrest": "leather_00",
+        "backrest": "leather_29",
+        "base": "metal_05",
+        "seat": "leather_09"
+    },
+    "19_075__911": {
+        "armrest": "fabric_22",
+        "backrest": "leather_19",
+        "base": "wood_32",
+        "seat": "fabric_13"
+    },
+    "19_075__912": {
+        "armrest": "fabric_02",
+        "backrest": "fabric_02",
+        "base": "wood_27",
+        "seat": "fabric_03"
+    },
+    "19_075__913": {
+        "armrest": "fabric_20",
+        "backrest": "leather_13",
+        "base": "metal_11",
+        "seat": "fabric_21"
+    },
+    "19_075__914": {
+        "armrest": "fabric_04",
+        "backrest": "fabric_08",
+        "base": "wood_63",
+        "seat": "leather_24"
+    },
+    "19_075__915": {
+        "armrest": "fabric_23",
+        "backrest": "fabric_08",
+        "base": "metal_47",
+        "seat": "fabric_24"
+    },
+    "19_075__916": {
+        "armrest": "fabric_28",
+        "backrest": "fabric_24",
+        "base": "wood_39",
+        "seat": "fabric_19"
+    },
+    "19_075__917": {
+        "armrest": "fabric_20",
+        "backrest": "fabric_14",
+        "base": "metal_58",
+        "seat": "fabric_29"
+    },
+    "19_075__918": {
+        "armrest": "fabric_31",
+        "backrest": "fabric_01",
+        "base": "wood_50",
+        "seat": "fabric_16"
+    },
+    "19_075__919": {
+        "armrest": "leather_00",
+        "backrest": "leather_21",
+        "base": "metal_43",
+        "seat": "leather_31"
+    },
+    "19_075__920": {
+        "armrest": "leather_04",
+        "backrest": "fabric_10",
+        "base": "wood_63",
+        "seat": "fabric_28"
+    },
+    "19_075__921": {
+        "armrest": "fabric_15",
+        "backrest": "leather_13",
+        "base": "metal_31",
+        "seat": "fabric_29"
+    },
+    "19_075__922": {
+        "armrest": "fabric_08",
+        "backrest": "leather_25",
+        "base": "wood_50",
+        "seat": "fabric_06"
+    },
+    "19_075__923": {
+        "armrest": "fabric_02",
+        "backrest": "leather_05",
+        "base": "wood_55",
+        "seat": "leather_00"
+    },
+    "19_075__924": {
+        "armrest": "fabric_21",
+        "backrest": "leather_22",
+        "base": "metal_55",
+        "seat": "fabric_19"
+    },
+    "19_075__925": {
+        "armrest": "leather_10",
+        "backrest": "fabric_10",
+        "base": "metal_03",
+        "seat": "leather_09"
+    },
+    "19_075__926": {
+        "armrest": "leather_28",
+        "backrest": "leather_20",
+        "base": "wood_04",
+        "seat": "fabric_06"
+    },
+    "19_075__927": {
+        "armrest": "fabric_07",
+        "backrest": "fabric_00",
+        "base": "metal_43",
+        "seat": "fabric_03"
+    },
+    "19_075__928": {
+        "armrest": "leather_06",
+        "backrest": "fabric_06",
+        "base": "metal_63",
+        "seat": "fabric_09"
+    },
+    "19_075__929": {
+        "armrest": "leather_18",
+        "backrest": "leather_10",
+        "base": "wood_15",
+        "seat": "leather_08"
+    },
+    "19_075__930": {
+        "armrest": "fabric_23",
+        "backrest": "leather_33",
+        "base": "metal_50",
+        "seat": "fabric_25"
+    },
+    "19_075__931": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_15",
+        "base": "wood_13",
+        "seat": "fabric_13"
+    },
+    "19_075__932": {
+        "armrest": "leather_27",
+        "backrest": "fabric_16",
+        "base": "metal_00",
+        "seat": "fabric_20"
+    },
+    "19_075__933": {
+        "armrest": "leather_05",
+        "backrest": "leather_27",
+        "base": "metal_19",
+        "seat": "fabric_00"
+    },
+    "19_075__934": {
+        "armrest": "fabric_11",
+        "backrest": "leather_13",
+        "base": "metal_07",
+        "seat": "fabric_18"
+    },
+    "19_075__935": {
+        "armrest": "fabric_28",
+        "backrest": "fabric_02",
+        "base": "metal_61",
+        "seat": "leather_00"
+    },
+    "19_075__936": {
+        "armrest": "leather_28",
+        "backrest": "fabric_06",
+        "base": "metal_54",
+        "seat": "fabric_00"
+    },
+    "19_075__937": {
+        "armrest": "leather_12",
+        "backrest": "fabric_07",
+        "base": "metal_37",
+        "seat": "fabric_18"
+    },
+    "19_075__938": {
+        "armrest": "leather_19",
+        "backrest": "leather_04",
+        "base": "metal_52",
+        "seat": "fabric_22"
+    },
+    "19_075__939": {
+        "armrest": "leather_16",
+        "backrest": "leather_03",
+        "base": "metal_12",
+        "seat": "leather_09"
+    },
+    "19_075__940": {
+        "armrest": "fabric_00",
+        "backrest": "fabric_19",
+        "base": "metal_33",
+        "seat": "fabric_23"
+    },
+    "19_075__941": {
+        "armrest": "leather_05",
+        "backrest": "fabric_28",
+        "base": "metal_38",
+        "seat": "leather_23"
+    },
+    "19_075__942": {
+        "armrest": "leather_24",
+        "backrest": "leather_10",
+        "base": "wood_51",
+        "seat": "leather_23"
+    },
+    "19_075__943": {
+        "armrest": "fabric_30",
+        "backrest": "leather_12",
+        "base": "wood_35",
+        "seat": "leather_28"
+    },
+    "19_075__944": {
+        "armrest": "fabric_08",
+        "backrest": "leather_08",
+        "base": "wood_42",
+        "seat": "leather_23"
+    },
+    "19_075__945": {
+        "armrest": "fabric_16",
+        "backrest": "fabric_28",
+        "base": "wood_61",
+        "seat": "fabric_15"
+    },
+    "19_075__946": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_15",
+        "base": "wood_35",
+        "seat": "fabric_30"
+    },
+    "19_075__947": {
+        "armrest": "fabric_10",
+        "backrest": "fabric_30",
+        "base": "wood_63",
+        "seat": "fabric_26"
+    },
+    "19_075__948": {
+        "armrest": "leather_12",
+        "backrest": "fabric_22",
+        "base": "metal_25",
+        "seat": "fabric_30"
+    },
+    "19_075__949": {
+        "armrest": "leather_04",
+        "backrest": "leather_07",
+        "base": "wood_21",
+        "seat": "leather_15"
+    },
+    "19_075__950": {
+        "armrest": "fabric_05",
+        "backrest": "leather_30",
+        "base": "wood_15",
+        "seat": "fabric_31"
+    },
+    "19_075__951": {
+        "armrest": "leather_23",
+        "backrest": "fabric_10",
+        "base": "metal_04",
+        "seat": "fabric_23"
+    },
+    "19_075__952": {
+        "armrest": "fabric_21",
+        "backrest": "fabric_27",
+        "base": "wood_14",
+        "seat": "leather_02"
+    },
+    "19_075__953": {
+        "armrest": "leather_33",
+        "backrest": "leather_19",
+        "base": "wood_02",
+        "seat": "leather_22"
+    },
+    "19_075__954": {
+        "armrest": "leather_14",
+        "backrest": "leather_01",
+        "base": "metal_59",
+        "seat": "fabric_09"
+    },
+    "19_075__955": {
+        "armrest": "fabric_01",
+        "backrest": "fabric_20",
+        "base": "metal_22",
+        "seat": "fabric_06"
+    },
+    "19_075__956": {
+        "armrest": "fabric_26",
+        "backrest": "leather_13",
+        "base": "wood_60",
+        "seat": "fabric_02"
+    },
+    "19_075__957": {
+        "armrest": "leather_00",
+        "backrest": "leather_11",
+        "base": "wood_43",
+        "seat": "leather_24"
+    },
+    "19_075__958": {
+        "armrest": "leather_03",
+        "backrest": "fabric_05",
+        "base": "wood_26",
+        "seat": "fabric_14"
+    },
+    "19_075__959": {
+        "armrest": "fabric_31",
+        "backrest": "leather_12",
+        "base": "wood_23",
+        "seat": "leather_06"
+    },
+    "19_075__960": {
+        "armrest": "leather_20",
+        "backrest": "leather_17",
+        "base": "wood_08",
+        "seat": "fabric_15"
+    },
+    "19_075__961": {
+        "armrest": "leather_05",
+        "backrest": "fabric_12",
+        "base": "wood_45",
+        "seat": "leather_21"
+    },
+    "19_075__962": {
+        "armrest": "fabric_07",
+        "backrest": "fabric_20",
+        "base": "metal_51",
+        "seat": "fabric_10"
+    },
+    "19_075__963": {
+        "armrest": "fabric_01",
+        "backrest": "fabric_31",
+        "base": "wood_35",
+        "seat": "fabric_06"
+    },
+    "19_075__964": {
+        "armrest": "leather_17",
+        "backrest": "leather_26",
+        "base": "wood_13",
+        "seat": "leather_13"
+    },
+    "19_075__965": {
+        "armrest": "fabric_12",
+        "backrest": "fabric_07",
+        "base": "metal_34",
+        "seat": "leather_16"
+    },
+    "19_075__966": {
+        "armrest": "leather_00",
+        "backrest": "fabric_22",
+        "base": "wood_23",
+        "seat": "fabric_13"
+    },
+    "19_075__967": {
+        "armrest": "fabric_26",
+        "backrest": "leather_30",
+        "base": "metal_27",
+        "seat": "leather_28"
+    },
+    "19_075__968": {
+        "armrest": "fabric_06",
+        "backrest": "fabric_04",
+        "base": "metal_19",
+        "seat": "fabric_11"
+    },
+    "19_075__969": {
+        "armrest": "leather_19",
+        "backrest": "leather_00",
+        "base": "metal_47",
+        "seat": "leather_13"
+    },
+    "19_075__970": {
+        "armrest": "leather_01",
+        "backrest": "fabric_04",
+        "base": "metal_10",
+        "seat": "fabric_17"
+    },
+    "19_075__971": {
+        "armrest": "leather_32",
+        "backrest": "leather_01",
+        "base": "metal_64",
+        "seat": "fabric_27"
+    },
+    "19_075__972": {
+        "armrest": "leather_15",
+        "backrest": "fabric_14",
+        "base": "metal_44",
+        "seat": "fabric_29"
+    },
+    "19_075__973": {
+        "armrest": "leather_33",
+        "backrest": "leather_14",
+        "base": "wood_08",
+        "seat": "fabric_16"
+    },
+    "19_075__974": {
+        "armrest": "fabric_25",
+        "backrest": "leather_01",
+        "base": "wood_53",
+        "seat": "leather_04"
+    },
+    "19_075__975": {
+        "armrest": "leather_02",
+        "backrest": "leather_28",
+        "base": "metal_55",
+        "seat": "fabric_05"
+    },
+    "19_075__976": {
+        "armrest": "leather_00",
+        "backrest": "fabric_04",
+        "base": "metal_34",
+        "seat": "leather_27"
+    },
+    "19_075__977": {
+        "armrest": "leather_16",
+        "backrest": "leather_24",
+        "base": "wood_23",
+        "seat": "fabric_16"
+    },
+    "19_075__978": {
+        "armrest": "fabric_09",
+        "backrest": "fabric_24",
+        "base": "metal_37",
+        "seat": "fabric_30"
+    },
+    "19_075__979": {
+        "armrest": "fabric_18",
+        "backrest": "leather_07",
+        "base": "metal_30",
+        "seat": "fabric_13"
+    },
+    "19_075__980": {
+        "armrest": "fabric_10",
+        "backrest": "fabric_04",
+        "base": "metal_60",
+        "seat": "fabric_26"
+    },
+    "19_075__981": {
+        "armrest": "leather_32",
+        "backrest": "fabric_25",
+        "base": "metal_02",
+        "seat": "leather_18"
+    },
+    "19_075__982": {
+        "armrest": "leather_25",
+        "backrest": "fabric_02",
+        "base": "wood_13",
+        "seat": "leather_04"
+    },
+    "19_075__983": {
+        "armrest": "leather_25",
+        "backrest": "leather_10",
+        "base": "metal_02",
+        "seat": "fabric_25"
+    },
+    "19_075__984": {
+        "armrest": "leather_30",
+        "backrest": "leather_02",
+        "base": "wood_61",
+        "seat": "leather_01"
+    },
+    "19_075__985": {
+        "armrest": "fabric_19",
+        "backrest": "fabric_01",
+        "base": "wood_37",
+        "seat": "leather_07"
+    },
+    "19_075__986": {
+        "armrest": "fabric_19",
+        "backrest": "leather_15",
+        "base": "metal_33",
+        "seat": "leather_29"
+    },
+    "19_075__987": {
+        "armrest": "leather_24",
+        "backrest": "leather_17",
+        "base": "wood_23",
+        "seat": "fabric_30"
+    },
+    "19_075__988": {
+        "armrest": "leather_06",
+        "backrest": "leather_12",
+        "base": "wood_35",
+        "seat": "fabric_04"
+    },
+    "19_075__989": {
+        "armrest": "fabric_25",
+        "backrest": "fabric_23",
+        "base": "metal_53",
+        "seat": "leather_10"
+    },
+    "19_075__990": {
+        "armrest": "fabric_06",
+        "backrest": "leather_08",
+        "base": "wood_39",
+        "seat": "leather_33"
+    },
+    "19_075__991": {
+        "armrest": "fabric_02",
+        "backrest": "fabric_09",
+        "base": "metal_36",
+        "seat": "fabric_08"
+    },
+    "19_075__992": {
+        "armrest": "leather_15",
+        "backrest": "leather_01",
+        "base": "metal_59",
+        "seat": "leather_16"
+    },
+    "19_075__993": {
+        "armrest": "leather_29",
+        "backrest": "leather_20",
+        "base": "metal_41",
+        "seat": "fabric_19"
+    },
+    "19_075__994": {
+        "armrest": "fabric_07",
+        "backrest": "leather_08",
+        "base": "wood_06",
+        "seat": "fabric_30"
+    },
+    "19_075__995": {
+        "armrest": "fabric_17",
+        "backrest": "fabric_18",
+        "base": "metal_16",
+        "seat": "leather_06"
+    },
+    "19_075__996": {
+        "armrest": "fabric_02",
+        "backrest": "leather_20",
+        "base": "metal_12",
+        "seat": "leather_11"
+    },
+    "19_075__997": {
+        "armrest": "fabric_27",
+        "backrest": "leather_30",
+        "base": "wood_31",
+        "seat": "leather_16"
+    },
+    "19_075__998": {
+        "armrest": "leather_26",
+        "backrest": "fabric_10",
+        "base": "wood_40",
+        "seat": "fabric_02"
+    },
+    "19_075__999": {
+        "armrest": "leather_28",
+        "backrest": "leather_33",
+        "base": "wood_24",
+        "seat": "fabric_03"
+    },
+    "19_083__678": {
+        "armrest": "leather_08",
+        "backrest": "fabric_16",
+        "base": "wood_30",
+        "seat": "fabric_09"
+    },
+    "19_083__679": {
+        "armrest": "leather_23",
+        "backrest": "fabric_14",
+        "base": "metal_36",
+        "seat": "leather_24"
+    },
+    "19_083__680": {
+        "armrest": "fabric_26",
+        "backrest": "fabric_18",
+        "base": "wood_53",
+        "seat": "fabric_10"
+    },
+    "19_083__681": {
+        "armrest": "fabric_29",
+        "backrest": "fabric_02",
+        "base": "wood_17",
+        "seat": "fabric_04"
+    },
+    "19_083__682": {
+        "armrest": "fabric_21",
+        "backrest": "leather_23",
+        "base": "wood_53",
+        "seat": "leather_26"
+    },
+    "19_083__683": {
+        "armrest": "fabric_11",
+        "backrest": "fabric_17",
+        "base": "wood_07",
+        "seat": "leather_06"
+    },
+    "19_083__684": {
+        "armrest": "fabric_10",
+        "backrest": "fabric_22",
+        "base": "wood_50",
+        "seat": "fabric_17"
+    },
+    "19_083__685": {
+        "armrest": "leather_11",
+        "backrest": "leather_19",
+        "base": "wood_40",
+        "seat": "leather_27"
+    },
+    "19_083__686": {
+        "armrest": "leather_20",
+        "backrest": "leather_06",
+        "base": "wood_35",
+        "seat": "fabric_23"
+    },
+    "19_083__687": {
+        "armrest": "fabric_08",
+        "backrest": "leather_13",
+        "base": "wood_02",
+        "seat": "leather_05"
+    },
+    "19_083__688": {
+        "armrest": "fabric_03",
+        "backrest": "fabric_20",
+        "base": "metal_58",
+        "seat": "fabric_15"
+    },
+    "19_083__689": {
+        "armrest": "fabric_05",
+        "backrest": "leather_10",
+        "base": "wood_24",
+        "seat": "leather_02"
+    },
+    "19_083__690": {
+        "armrest": "leather_03",
+        "backrest": "fabric_29",
+        "base": "wood_46",
+        "seat": "fabric_15"
+    },
+    "19_083__691": {
+        "armrest": "leather_33",
+        "backrest": "leather_18",
+        "base": "metal_61",
+        "seat": "fabric_07"
+    },
+    "19_083__692": {
+        "armrest": "fabric_30",
+        "backrest": "leather_25",
+        "base": "metal_60",
+        "seat": "leather_09"
+    },
+    "19_083__693": {
+        "armrest": "leather_17",
+        "backrest": "leather_10",
+        "base": "metal_44",
+        "seat": "fabric_25"
+    },
+    "19_083__694": {
+        "armrest": "fabric_15",
+        "backrest": "leather_17",
+        "base": "wood_26",
+        "seat": "leather_05"
+    },
+    "19_083__695": {
+        "armrest": "leather_20",
+        "backrest": "fabric_07",
+        "base": "wood_44",
+        "seat": "leather_12"
+    },
+    "19_083__696": {
+        "armrest": "leather_25",
+        "backrest": "leather_26",
+        "base": "metal_62",
+        "seat": "fabric_26"
+    },
+    "19_083__697": {
+        "armrest": "leather_26",
+        "backrest": "fabric_18",
+        "base": "wood_18",
+        "seat": "leather_17"
+    },
+    "19_083__698": {
+        "armrest": "fabric_19",
+        "backrest": "leather_02",
+        "base": "metal_26",
+        "seat": "fabric_29"
+    },
+    "19_083__699": {
+        "armrest": "fabric_21",
+        "backrest": "fabric_23",
+        "base": "metal_02",
+        "seat": "fabric_11"
+    },
+    "19_083__700": {
+        "armrest": "leather_16",
+        "backrest": "leather_15",
+        "base": "metal_42",
+        "seat": "leather_13"
+    },
+    "19_083__701": {
+        "armrest": "fabric_18",
+        "backrest": "fabric_04",
+        "base": "metal_06",
+        "seat": "fabric_20"
+    },
+    "19_083__702": {
+        "armrest": "leather_13",
+        "backrest": "leather_29",
+        "base": "metal_47",
+        "seat": "leather_27"
+    },
+    "19_083__703": {
+        "armrest": "fabric_08",
+        "backrest": "leather_17",
+        "base": "metal_29",
+        "seat": "fabric_29"
+    },
+    "19_083__704": {
+        "armrest": "fabric_26",
+        "backrest": "fabric_05",
+        "base": "metal_30",
+        "seat": "leather_08"
+    },
+    "19_083__705": {
+        "armrest": "fabric_19",
+        "backrest": "leather_25",
+        "base": "metal_34",
+        "seat": "fabric_29"
+    },
+    "19_083__706": {
+        "armrest": "fabric_14",
+        "backrest": "leather_24",
+        "base": "wood_58",
+        "seat": "leather_23"
+    },
+    "19_083__707": {
+        "armrest": "fabric_28",
+        "backrest": "leather_19",
+        "base": "metal_53",
+        "seat": "fabric_21"
+    },
+    "19_083__708": {
+        "armrest": "leather_22",
+        "backrest": "leather_08",
+        "base": "metal_17",
+        "seat": "fabric_16"
+    },
+    "19_083__709": {
+        "armrest": "fabric_14",
+        "backrest": "fabric_15",
+        "base": "metal_57",
+        "seat": "fabric_21"
+    },
+    "19_083__710": {
+        "armrest": "fabric_20",
+        "backrest": "leather_12",
+        "base": "metal_25",
+        "seat": "leather_21"
+    },
+    "19_083__711": {
+        "armrest": "fabric_21",
+        "backrest": "fabric_04",
+        "base": "wood_47",
+        "seat": "fabric_28"
+    },
+    "19_083__712": {
+        "armrest": "leather_10",
+        "backrest": "fabric_31",
+        "base": "metal_57",
+        "seat": "leather_31"
+    },
+    "19_083__713": {
+        "armrest": "fabric_22",
+        "backrest": "fabric_17",
+        "base": "wood_10",
+        "seat": "leather_07"
+    },
+    "19_083__714": {
+        "armrest": "leather_19",
+        "backrest": "leather_17",
+        "base": "wood_51",
+        "seat": "leather_28"
+    },
+    "19_083__715": {
+        "armrest": "leather_00",
+        "backrest": "fabric_26",
+        "base": "metal_64",
+        "seat": "leather_29"
+    },
+    "19_083__716": {
+        "armrest": "fabric_11",
+        "backrest": "fabric_28",
+        "base": "wood_33",
+        "seat": "leather_33"
+    },
+    "19_083__717": {
+        "armrest": "leather_32",
+        "backrest": "fabric_25",
+        "base": "wood_59",
+        "seat": "leather_24"
+    },
+    "19_083__718": {
+        "armrest": "leather_16",
+        "backrest": "leather_30",
+        "base": "metal_14",
+        "seat": "fabric_20"
+    },
+    "19_083__719": {
+        "armrest": "leather_24",
+        "backrest": "fabric_10",
+        "base": "wood_02",
+        "seat": "fabric_20"
+    },
+    "19_083__720": {
+        "armrest": "fabric_06",
+        "backrest": "fabric_27",
+        "base": "wood_54",
+        "seat": "fabric_17"
+    },
+    "19_083__721": {
+        "armrest": "leather_16",
+        "backrest": "leather_12",
+        "base": "metal_16",
+        "seat": "fabric_09"
+    },
+    "19_083__722": {
+        "armrest": "fabric_26",
+        "backrest": "leather_11",
+        "base": "wood_46",
+        "seat": "fabric_27"
+    },
+    "19_083__723": {
+        "armrest": "fabric_14",
+        "backrest": "fabric_14",
+        "base": "metal_33",
+        "seat": "leather_32"
+    },
+    "19_083__724": {
+        "armrest": "fabric_30",
+        "backrest": "fabric_03",
+        "base": "wood_02",
+        "seat": "leather_18"
+    },
+    "19_083__725": {
+        "armrest": "fabric_24",
+        "backrest": "leather_23",
+        "base": "wood_59",
+        "seat": "leather_21"
+    },
+    "19_083__726": {
+        "armrest": "leather_17",
+        "backrest": "leather_01",
+        "base": "metal_17",
+        "seat": "leather_07"
+    },
+    "19_083__727": {
+        "armrest": "leather_19",
+        "backrest": "fabric_21",
+        "base": "wood_60",
+        "seat": "leather_23"
+    },
+    "19_083__728": {
+        "armrest": "leather_11",
+        "backrest": "fabric_23",
+        "base": "metal_31",
+        "seat": "fabric_08"
+    },
+    "19_083__729": {
+        "armrest": "leather_32",
+        "backrest": "leather_19",
+        "base": "metal_45",
+        "seat": "leather_17"
+    },
+    "19_083__730": {
+        "armrest": "fabric_06",
+        "backrest": "leather_29",
+        "base": "wood_02",
+        "seat": "leather_26"
+    },
+    "19_083__731": {
+        "armrest": "leather_09",
+        "backrest": "leather_11",
+        "base": "metal_30",
+        "seat": "leather_31"
+    },
+    "19_083__732": {
+        "armrest": "leather_29",
+        "backrest": "leather_30",
+        "base": "metal_14",
+        "seat": "leather_28"
+    },
+    "19_083__733": {
+        "armrest": "fabric_22",
+        "backrest": "fabric_01",
+        "base": "wood_20",
+        "seat": "fabric_24"
+    },
+    "19_083__734": {
+        "armrest": "leather_14",
+        "backrest": "fabric_14",
+        "base": "wood_30",
+        "seat": "fabric_15"
+    },
+    "19_083__735": {
+        "armrest": "fabric_30",
+        "backrest": "fabric_08",
+        "base": "wood_43",
+        "seat": "leather_18"
+    },
+    "19_083__736": {
+        "armrest": "fabric_01",
+        "backrest": "leather_19",
+        "base": "metal_65",
+        "seat": "leather_22"
+    },
+    "19_083__737": {
+        "armrest": "leather_27",
+        "backrest": "leather_06",
+        "base": "metal_31",
+        "seat": "leather_04"
+    },
+    "19_083__738": {
+        "armrest": "leather_30",
+        "backrest": "leather_16",
+        "base": "metal_23",
+        "seat": "leather_30"
+    },
+    "19_083__739": {
+        "armrest": "fabric_29",
+        "backrest": "fabric_14",
+        "base": "metal_27",
+        "seat": "fabric_03"
+    },
+    "19_083__740": {
+        "armrest": "leather_32",
+        "backrest": "fabric_10",
+        "base": "metal_30",
+        "seat": "leather_25"
+    },
+    "1f_039__678": {
+        "base": "marble_13",
+        "sink": "marble_17"
+    },
+    "1f_03f__678": {
+        "faucet": "metal_53",
+        "sink": "marble_16"
+    },
+    "1f_044__678": {
+        "base": "marble_18",
+        "sink": "metal_13"
+    },
+    "1f_04b__678": {
+        "base": "granite_05",
+        "sink": "granite_01"
+    },
+    "1f_05e__678": {
+        "base": "marble_31",
+        "sink": "granite_06"
+    },
+    "20_000__678": {
+        "skateboard_truck": "metal_38",
+        "horizontal_panel": "wood_25",
+        "wheel": "metal_22"
+    },
+    "20_012__678": {
+        "horizontal_panel": "wood_25",
+        "skateboard_truck": "metal_15",
+        "wheel": "metal_30"
+    },
+    "20_019__678": {
+        "horizontal_panel": "wood_01",
+        "skateboard_truck": "metal_14",
+        "wheel": "metal_49"
+    },
+    "20_01a__678": {
+        "skateboard_truck": "metal_41",
+        "horizontal_panel": "wood_17",
+        "wheel": "metal_39"
+    },
+    "20_01b__678": {
+        "horizontal_panel": "wood_41",
+        "skateboard_truck": "metal_33",
+        "wheel": "metal_34"
+    },
+    "20_01f__678": {
+        "horizontal_panel": "wood_25",
+        "skateboard_truck": "metal_08",
+        "wheel": "metal_34"
+    },
+    "20_022__678": {
+        "skateboard_truck": "metal_50",
+        "horizontal_panel": "wood_58",
+        "wheel": "metal_33"
+    },
+    "20_029__678": {
+        "skateboard_truck": "metal_33",
+        "horizontal_panel": "wood_40",
+        "wheel": "metal_03"
+    },
+    "20_02f__678": {
+        "horizontal_panel": "wood_48",
+        "skateboard_truck": "metal_14",
+        "wheel": "metal_49"
+    },
+    "21_020__678": {
+        "armrest": "fabric_12",
+        "backrest": "leather_25",
+        "base": "metal_37",
+        "seat": "leather_06"
+    },
+    "21_040__678": {
+        "armrest": "fabric_00",
+        "base": "metal_33",
+        "pillow": "leather_10",
+        "seat": "leather_18",
+        "backrest": "wood_48"
+    },
+    "21_041__678": {
+        "armrest": "fabric_07",
+        "backrest": "leather_32",
+        "base": "metal_55",
+        "pillow": "leather_03",
+        "seat": "leather_05"
+    },
+    "21_043__678": {
+        "armrest": "fabric_18",
+        "backrest": "wood_62",
+        "base": "leather_19",
+        "pillow": "leather_19",
+        "seat": "fabric_28"
+    },
+    "21_050__678": {
+        "backrest": "leather_24",
+        "base": "wood_19",
+        "seat": "fabric_23"
+    },
+    "21_054__678": {
+        "armrest": "leather_32",
+        "backrest": "metal_55",
+        "base": "metal_13",
+        "pillow": "leather_21",
+        "seat": "fabric_07"
+    },
+    "21_05a__678": {
+        "armrest": "fabric_20",
+        "base": "metal_09",
+        "seat": "leather_07",
+        "backrest": "leather_31"
+    },
+    "21_06c__678": {
+        "armrest": "fabric_09",
+        "backrest": "metal_32",
+        "base": "wood_42",
+        "seat": "leather_01"
+    },
+    "21_06e__678": {
+        "armrest": "fabric_03",
+        "backrest": "leather_21",
+        "base": "metal_51",
+        "seat": "leather_22"
+    },
+    "21_07a__678": {
+        "armrest": "leather_12",
+        "backrest": "leather_05",
+        "base": "leather_12",
+        "pillow": "leather_09",
+        "seat": "fabric_29"
+    },
+    "21_08f__678": {
+        "armrest": "fabric_08",
+        "backrest": "leather_19",
+        "base": "wood_51",
+        "seat": "leather_23"
+    },
+    "21_0a1__678": {
+        "backrest": "leather_13",
+        "base": "metal_57",
+        "seat": "fabric_05"
+    },
+    "21_0a3__678": {
+        "armrest": "fabric_17",
+        "backrest": "leather_13",
+        "base": "metal_16",
+        "seat": "leather_23"
+    },
+    "21_0b8__678": {
+        "backrest": "metal_53",
+        "base": "metal_16",
+        "pillow": "leather_26",
+        "seat": "leather_06"
+    },
+    "21_0c8__678": {
+        "armrest": "leather_20",
+        "backrest": "metal_47",
+        "base": "fabric_19",
+        "seat": "leather_13"
+    },
+    "21_0cf__678": {
+        "armrest": "leather_21",
+        "backrest": "leather_10",
+        "base": "leather_03",
+        "seat": "leather_26"
+    },
+    "21_0d6__678": {
+        "backrest": "leather_05",
+        "base": "metal_52",
+        "seat": "leather_11"
+    },
+    "21_0de__678": {
+        "armrest": "fabric_20",
+        "backrest": "leather_14",
+        "base": "wood_42",
+        "seat": "fabric_03"
+    },
+    "21_0f1__678": {
+        "armrest": "fabric_20",
+        "backrest": "fabric_09",
+        "base": "metal_42",
+        "seat": "fabric_01"
+    },
+    "21_0f6__678": {
+        "armrest": "leather_24",
+        "backrest": "fabric_25",
+        "base": "wood_43",
+        "seat": "leather_22"
+    },
+    "21_0f7__678": {
+        "armrest": "leather_19",
+        "backrest": "fabric_26",
+        "base": "wood_12",
+        "pillow": "leather_01",
+        "seat": "leather_11"
+    },
+    "21_0fd__678": {
+        "armrest": "fabric_03",
+        "backrest": "metal_15",
+        "base": "wood_17",
+        "seat": "leather_08"
+    },
+    "21_106__678": {
+        "armrest": "fabric_30",
+        "backrest": "leather_08",
+        "base": "wood_30",
+        "pillow": "leather_14",
+        "seat": "fabric_07"
+    },
+    "21_107__678": {
+        "backrest": "leather_16",
+        "base": "wood_41",
+        "pillow": "fabric_25",
+        "seat": "leather_25"
+    },
+    "21_10d__678": {
+        "armrest": "fabric_21",
+        "backrest": "leather_18",
+        "base": "leather_17",
+        "pillow": "fabric_01",
+        "seat": "leather_17"
+    },
+    "21_113__678": {
+        "armrest": "leather_20",
+        "base": "leather_03",
+        "pillow": "leather_12",
+        "seat": "fabric_10",
+        "backrest": "metal_61"
+    },
+    "21_114__678": {
+        "armrest": "leather_17",
+        "backrest": "leather_04",
+        "base": "wood_30",
+        "seat": "leather_27"
+    },
+    "21_11e__678": {
+        "armrest": "fabric_26",
+        "base": "leather_28",
+        "pillow": "fabric_26",
+        "seat": "leather_05",
+        "backrest": "metal_06"
+    },
+    "21_125__678": {
+        "armrest": "leather_13",
+        "backrest": "fabric_16",
+        "base": "wood_20",
+        "seat": "fabric_03"
+    },
+    "21_133__678": {
+        "armrest": "fabric_13",
+        "backrest": "leather_21",
+        "base": "wood_55",
+        "seat": "leather_07"
+    },
+    "21_135__678": {
+        "armrest": "leather_03",
+        "backrest": "wood_53",
+        "base": "metal_21",
+        "seat": "leather_29"
+    },
+    "21_13f__678": {
+        "armrest": "fabric_22",
+        "backrest": "leather_27",
+        "base": "metal_30",
+        "seat": "leather_30"
+    },
+    "22_002__678": {
+        "horizontal_panel": "wood_48",
+        "base": "wood_10",
+        "pool_ball": "plastic_05",
+        "pool_cue": "wood_32"
+    },
+    "22_007__678": {
+        "horizontal_panel": "wood_46",
+        "base": "wood_29",
+        "pool_ball": "plastic_16",
+        "pool_cue": "wood_12"
+    },
+    "22_009__678": {
+        "horizontal_panel": "wood_06",
+        "base": "wood_60",
+        "pool_ball": "plastic_05",
+        "pool_cue": "wood_48"
+    },
+    "22_00e__678": {
+        "horizontal_panel": "wood_28",
+        "base": "wood_01",
+        "pool_ball": "plastic_16"
+    },
+    "22_00f__678": {
+        "horizontal_panel": "wood_61",
+        "base": "wood_14",
+        "pool_ball": "plastic_12",
+        "pool_cue": "wood_20"
+    },
+    "22_014__678": {
+        "horizontal_panel": "wood_46",
+        "base": "wood_00",
+        "pool_ball": "plastic_18",
+        "pool_cue": "wood_42"
+    },
+    "22_015__678": {
+        "horizontal_panel": "wood_59",
+        "base": "wood_48",
+        "pool_ball": "plastic_16",
+        "pool_cue": "wood_43"
+    },
+    "22_024__678": {
+        "horizontal_panel": "wood_27",
+        "base": "wood_12",
+        "pool_ball": "plastic_02"
+    },
+    "22_025__678": {
+        "horizontal_panel": "wood_13",
+        "base": "wood_60",
+        "pool_ball": "plastic_13",
+        "pool_cue": "wood_36"
+    },
+    "22_02f__678": {
+        "horizontal_panel": "wood_17",
+        "base": "wood_45",
+        "pool_ball": "plastic_00",
+        "pool_cue": "wood_24"
+    },
+    "22_035__678": {
+        "horizontal_panel": "wood_19",
+        "base": "wood_60",
+        "pool_ball": "plastic_15",
+        "pool_cue": "wood_50"
+    },
+    "23_000__678": {
+        "base": "metal_57",
+        "seat": "leather_09"
+    },
+    "23_004__678": {
+        "backrest": "fabric_13",
+        "base": "wood_15",
+        "seat": "fabric_11"
+    },
+    "23_02a__678": {
+        "backrest": "fabric_03",
+        "base": "plastic_01",
+        "seat": "fabric_01"
+    },
+    "23_02d__678": {
+        "base": "wood_18",
+        "seat": "wood_61"
+    },
+    "23_038__678": {
+        "backrest": "fabric_01",
+        "base": "plastic_17",
+        "seat": "leather_19"
+    },
+    "23_040__678": {
+        "base": "wood_35",
+        "backrest": "leather_28",
+        "seat": "leather_20"
+    },
+    "23_04d__678": {
+        "base": "plastic_18",
+        "backrest": "fabric_24",
+        "seat": "plastic_15"
+    },
+    "23_053__678": {
+        "base": "plastic_13",
+        "seat": "leather_05"
+    },
+    "23_05a__678": {
+        "base": "metal_39",
+        "seat": "leather_15"
+    },
+    "23_070__678": {
+        "backrest": "fabric_07",
+        "base": "metal_17",
+        "seat": "fabric_11"
+    },
+    "23_079__678": {
+        "base": "wood_16",
+        "seat": "fabric_04"
+    },
+    "23_07f__678": {
+        "base": "wood_02",
+        "seat": "fabric_23"
+    },
+    "23_086__678": {
+        "base": "wood_58",
+        "seat": "fabric_04"
+    },
+    "23_087__678": {
+        "base": "metal_05",
+        "backrest": "fabric_07",
+        "seat": "fabric_03"
+    },
+    "23_0a3__678": {
+        "base": "metal_32",
+        "seat": "metal_38"
+    },
+    "23_0a8__678": {
+        "backrest": "fabric_31",
+        "base": "wood_40",
+        "seat": "wood_62"
+    },
+    "23_0ae__678": {
+        "base": "wood_27",
+        "seat": "fabric_30"
+    },
+    "23_0b0__678": {
+        "backrest": "leather_03",
+        "base": "metal_26",
+        "seat": "fabric_16"
+    },
+    "23_0b5__678": {
+        "base": "plastic_12",
+        "backrest": "fabric_29",
+        "seat": "fabric_12"
+    },
+    "23_0b7__678": {
+        "backrest": "leather_26",
+        "base": "metal_07",
+        "seat": "leather_27"
+    },
+    "23_0bb__678": {
+        "backrest": "leather_06",
+        "base": "plastic_17",
+        "seat": "wood_19"
+    },
+    "23_0c1__678": {
+        "base": "wood_38",
+        "seat": "fabric_29"
+    },
+    "23_0c6__678": {
+        "backrest": "leather_31",
+        "base": "plastic_04",
+        "seat": "leather_06"
+    },
+    "23_0c9__678": {
+        "base": "metal_33",
+        "backrest": "leather_32",
+        "seat": "leather_30"
+    },
+    "23_0cd__678": {
+        "backrest": "metal_00",
+        "base": "metal_51",
+        "seat": "fabric_13"
+    },
+    "23_0fa__678": {
+        "base": "wood_27",
+        "seat": "leather_26"
+    },
+    "23_101__678": {
+        "base": "wood_13",
+        "backrest": "leather_24",
+        "seat": "fabric_00"
+    },
+    "23_10a__678": {
+        "backrest": "leather_02",
+        "base": "wood_15",
+        "seat": "fabric_03"
+    },
+    "23_11c__678": {
+        "base": "metal_58",
+        "seat": "plastic_20"
+    },
+    "23_126__678": {
+        "backrest": "fabric_25",
+        "base": "plastic_02",
+        "seat": "leather_27"
+    },
+    "23_131__678": {
+        "backrest": "leather_07",
+        "base": "wood_30",
+        "seat": "fabric_01"
+    },
+    "23_13a__678": {
+        "base": "plastic_18",
+        "backrest": "fabric_09",
+        "seat": "fabric_29"
+    },
+    "23_14e__678": {
+        "backrest": "fabric_17",
+        "base": "wood_60",
+        "seat": "leather_19"
+    },
+    "23_156__678": {
+        "base": "wood_55",
+        "seat": "leather_29"
+    },
+    "23_160__678": {
+        "base": "wood_31",
+        "backrest": "leather_19",
+        "seat": "leather_10"
+    },
+    "23_16a__678": {
+        "base": "wood_01",
+        "seat": "leather_10"
+    },
+    "23_176__678": {
+        "base": "wood_59",
+        "backrest": "fabric_25",
+        "seat": "metal_43"
+    },
+    "23_178__678": {
+        "backrest": "leather_32",
+        "base": "wood_28",
+        "seat": "leather_25"
+    },
+    "24_004__678": {
+        "armrest": "metal_60",
+        "backrest": "fabric_23",
+        "base": "plastic_10",
+        "seat": "wood_32"
+    },
+    "24_006__678": {
+        "backrest": "fabric_03",
+        "base": "metal_65",
+        "seat": "wood_59"
+    },
+    "24_007__678": {
+        "base": "wood_14",
+        "seat": "metal_00"
+    },
+    "24_00e__678": {
+        "backrest": "wood_28",
+        "base": "wood_15",
+        "seat": "wood_58"
+    },
+    "24_012__678": {
+        "backrest": "fabric_29",
+        "base": "wood_15",
+        "seat": "wood_34"
+    },
+    "24_015__678": {
+        "backrest": "leather_14",
+        "base": "metal_28",
+        "seat": "plastic_11"
+    },
+    "24_01a__678": {
+        "armrest": "wood_36",
+        "backrest": "wood_46",
+        "base": "wood_43",
+        "seat": "metal_64"
+    },
+    "24_024__678": {
+        "base": "metal_36",
+        "seat": "wood_42"
+    },
+    "24_028__678": {
+        "armrest": "wood_38",
+        "base": "wood_14",
+        "seat": "wood_16"
+    },
+    "24_02e__678": {
+        "backrest": "fabric_31",
+        "base": "plastic_05",
+        "seat": "wood_43"
+    },
+    "24_036__678": {
+        "backrest": "metal_25",
+        "base": "metal_59",
+        "seat": "plastic_18"
+    },
+    "25_000__678": {
+        "horizontal_panel": "wood_30",
+        "base": "wood_10"
+    },
+    "25_01b__678": {
+        "horizontal_panel": "metal_57",
+        "base": "wood_31"
+    },
+    "25_022__678": {
+        "horizontal_panel": "wood_32",
+        "base": "wood_39"
+    },
+    "25_025__678": {
+        "base": "wood_53",
+        "horizontal_panel": "wood_35"
+    },
+    "25_038__678": {
+        "base": "metal_61",
+        "horizontal_panel": "wood_11"
+    },
+    "25_044__678": {
+        "horizontal_panel": "wood_45",
+        "base": "metal_65"
+    },
+    "25_05e__678": {
+        "horizontal_panel": "metal_43",
+        "base": "metal_10"
+    },
+    "25_064__678": {
+        "base": "metal_24",
+        "horizontal_panel": "wood_59",
+        "vertical_panel": "wood_45"
+    },
+    "25_06e__678": {
+        "base": "wood_39",
+        "horizontal_panel": "metal_01"
+    },
+    "25_07a__678": {
+        "horizontal_panel": "metal_52",
+        "base": "wood_25"
+    },
+    "25_07b__678": {
+        "horizontal_panel": "wood_42",
+        "base": "metal_34"
+    },
+    "25_080__678": {
+        "horizontal_panel": "metal_02",
+        "base": "metal_17"
+    },
+    "25_084__678": {
+        "horizontal_panel": "metal_26",
+        "base": "wood_54"
+    },
+    "25_08c__678": {
+        "horizontal_panel": "metal_47",
+        "base": "metal_32"
+    },
+    "25_090__678": {
+        "horizontal_panel": "metal_29",
+        "base": "metal_31"
+    },
+    "25_094__678": {
+        "horizontal_panel": "metal_61",
+        "base": "metal_23"
+    },
+    "25_09f__678": {
+        "horizontal_panel": "wood_63",
+        "base": "wood_46"
+    },
+    "25_0a5__678": {
+        "horizontal_panel": "wood_45",
+        "base": "metal_07"
+    },
+    "25_0b0__678": {
+        "horizontal_panel": "wood_56",
+        "base": "metal_60"
+    },
+    "25_0b7__678": {
+        "base": "wood_46",
+        "horizontal_panel": "wood_35"
+    },
+    "25_0ca__678": {
+        "horizontal_panel": "wood_43",
+        "base": "metal_58"
+    },
+    "25_0ce__678": {
+        "horizontal_panel": "wood_46",
+        "base": "metal_50"
+    },
+    "25_0de__678": {
+        "horizontal_panel": "metal_24",
+        "base": "wood_46"
+    },
+    "25_0e7__678": {
+        "base": "wood_37",
+        "horizontal_panel": "metal_53"
+    },
+    "25_0f8__678": {
+        "horizontal_panel": "wood_52",
+        "base": "metal_24"
+    },
+    "25_0fa__678": {
+        "horizontal_panel": "wood_17",
+        "base": "metal_02"
+    },
+    "25_102__678": {
+        "horizontal_panel": "wood_53",
+        "base": "wood_22"
+    },
+    "25_10f__678": {
+        "horizontal_panel": "metal_59",
+        "base": "metal_54"
+    },
+    "25_118__678": {
+        "horizontal_panel": "metal_10",
+        "base": "wood_56"
+    },
+    "25_123__678": {
+        "base": "wood_61",
+        "horizontal_panel": "metal_37"
+    },
+    "25_127__678": {
+        "horizontal_panel": "metal_14",
+        "base": "metal_20"
+    },
+    "25_131__678": {
+        "horizontal_panel": "wood_51",
+        "base": "wood_37"
+    },
+    "25_13b__678": {
+        "horizontal_panel": "wood_44",
+        "base": "metal_25"
+    },
+    "25_144__678": {
+        "horizontal_panel": "wood_27",
+        "base": "metal_44"
+    },
+    "25_149__678": {
+        "horizontal_panel": "wood_31",
+        "base": "wood_31"
+    },
+    "25_154__678": {
+        "horizontal_panel": "metal_51",
+        "base": "metal_58"
+    },
+    "25_155__678": {
+        "horizontal_panel": "metal_17",
+        "base": "wood_11"
+    },
+    "25_15f__678": {
+        "horizontal_panel": "metal_54",
+        "base": "metal_26"
+    },
+    "25_162__678": {
+        "horizontal_panel": "metal_31",
+        "base": "wood_42"
+    },
+    "25_166__678": {
+        "base": "metal_52",
+        "horizontal_panel": "metal_55"
+    },
+    "25_16b__678": {
+        "horizontal_panel": "wood_21",
+        "base": "wood_22"
+    },
+    "25_187__678": {
+        "base": "metal_06",
+        "horizontal_panel": "wood_41"
+    },
+    "25_18d__678": {
+        "base": "metal_08",
+        "horizontal_panel": "metal_54"
+    },
+    "25_191__678": {
+        "base": "wood_23",
+        "horizontal_panel": "wood_29"
+    },
+    "25_195__678": {
+        "horizontal_panel": "metal_31",
+        "base": "wood_25"
+    },
+    "25_1a6__678": {
+        "horizontal_panel": "wood_33",
+        "base": "wood_23"
+    },
+    "25_1af__678": {
+        "horizontal_panel": "wood_48",
+        "base": "metal_37"
+    },
+    "25_1c0__678": {
+        "horizontal_panel": "wood_54",
+        "base": "wood_53"
+    },
+    "25_1de__678": {
+        "horizontal_panel": "wood_05",
+        "base": "wood_52"
+    },
+    "25_1e2__678": {
+        "base": "wood_33",
+        "horizontal_panel": "wood_54"
+    },
+    "25_1e7__678": {
+        "horizontal_panel": "metal_49",
+        "base": "metal_40"
+    },
+    "25_1f1__678": {
+        "base": "metal_00",
+        "horizontal_panel": "wood_03"
+    },
+    "25_1f9__678": {
+        "base": "metal_25",
+        "horizontal_panel": "metal_52"
+    },
+    "25_1fa__678": {
+        "horizontal_panel": "wood_31",
+        "base": "metal_42"
+    },
+    "25_227__678": {
+        "horizontal_panel": "wood_51",
+        "base": "metal_30"
+    },
+    "25_22e__678": {
+        "horizontal_panel": "wood_23",
+        "base": "wood_13"
+    },
+    "25_236__678": {
+        "horizontal_panel": "metal_17",
+        "base": "wood_52"
+    },
+    "25_23d__678": {
+        "horizontal_panel": "metal_47",
+        "base": "wood_47"
+    },
+    "25_245__678": {
+        "horizontal_panel": "wood_36",
+        "base": "metal_17"
+    },
+    "25_267__678": {
+        "horizontal_panel": "metal_38",
+        "base": "metal_45"
+    },
+    "25_26b__678": {
+        "horizontal_panel": "wood_44",
+        "base": "metal_38"
+    },
+    "25_277__678": {
+        "horizontal_panel": "wood_39",
+        "base": "wood_49"
+    },
+    "25_279__678": {
+        "horizontal_panel": "wood_14",
+        "base": "metal_57"
+    },
+    "25_27a__678": {
+        "horizontal_panel": "wood_26",
+        "base": "metal_24"
+    },
+    "25_281__678": {
+        "horizontal_panel": "wood_00",
+        "base": "wood_27",
+        "vertical_panel": "metal_55"
+    },
+    "25_29f__678": {
+        "horizontal_panel": "metal_52",
+        "base": "metal_15"
+    },
+    "25_2a9__678": {
+        "base": "metal_05",
+        "horizontal_panel": "metal_22"
+    },
+    "25_2c7__678": {
+        "base": "wood_28",
+        "horizontal_panel": "wood_60"
+    },
+    "25_2df__678": {
+        "horizontal_panel": "wood_51",
+        "base": "wood_09"
+    },
+    "25_2e4__678": {
+        "horizontal_panel": "wood_08",
+        "base": "wood_34"
+    },
+    "25_2f6__678": {
+        "horizontal_panel": "wood_17",
+        "base": "metal_09"
+    },
+    "25_2f8__678": {
+        "horizontal_panel": "metal_46",
+        "base": "metal_42"
+    },
+    "25_2fc__678": {
+        "horizontal_panel": "metal_46",
+        "base": "wood_21"
+    },
+    "25_307__678": {
+        "horizontal_panel": "metal_07",
+        "base": "wood_61"
+    },
+    "25_308__678": {
+        "base": "metal_45",
+        "horizontal_panel": "wood_05"
+    },
+    "25_309__678": {
+        "horizontal_panel": "wood_01",
+        "base": "wood_03"
+    },
+    "25_30a__678": {
+        "horizontal_panel": "metal_36",
+        "base": "wood_37"
+    },
+    "25_30d__678": {
+        "horizontal_panel": "metal_24",
+        "base": "metal_13"
+    },
+    "25_30f__678": {
+        "horizontal_panel": "wood_25",
+        "base": "metal_30"
+    },
+    "25_31f__678": {
+        "base": "metal_55",
+        "horizontal_panel": "wood_27"
+    },
+    "25_324__678": {
+        "horizontal_panel": "wood_06",
+        "base": "metal_54"
+    },
+    "25_340__678": {
+        "horizontal_panel": "metal_14",
+        "base": "metal_61"
+    },
+    "25_349__678": {
+        "horizontal_panel": "metal_53",
+        "base": "wood_49"
+    },
+    "25_357__678": {
+        "horizontal_panel": "wood_45",
+        "base": "wood_26"
+    },
+    "25_360__678": {
+        "horizontal_panel": "metal_03",
+        "base": "wood_23"
+    },
+    "25_366__678": {
+        "horizontal_panel": "wood_45",
+        "base": "metal_19"
+    },
+    "25_368__678": {
+        "base": "metal_18",
+        "horizontal_panel": "wood_02"
+    },
+    "25_372__678": {
+        "horizontal_panel": "metal_11",
+        "base": "wood_55"
+    },
+    "25_373__678": {
+        "base": "metal_18",
+        "horizontal_panel": "metal_23"
+    },
+    "25_376__678": {
+        "base": "wood_56",
+        "horizontal_panel": "wood_42"
+    },
+    "25_382__678": {
+        "horizontal_panel": "wood_21",
+        "base": "metal_12"
+    },
+    "25_39f__678": {
+        "horizontal_panel": "wood_35",
+        "base": "metal_02"
+    },
+    "25_3ab__678": {
+        "base": "metal_51",
+        "horizontal_panel": "metal_30"
+    },
+    "25_3b3__678": {
+        "horizontal_panel": "metal_53",
+        "base": "metal_40"
+    },
+    "25_3c1__678": {
+        "horizontal_panel": "metal_54",
+        "base": "wood_57"
+    },
+    "25_3ce__678": {
+        "horizontal_panel": "metal_42",
+        "base": "wood_58"
+    },
+    "25_3e1__678": {
+        "horizontal_panel": "metal_52",
+        "base": "wood_47"
+    },
+    "25_3e5__678": {
+        "horizontal_panel": "metal_53",
+        "base": "metal_49"
+    },
+    "25_3ef__678": {
+        "horizontal_panel": "metal_47",
+        "base": "metal_09"
+    },
+    "25_3f3__678": {
+        "vertical_panel": "wood_50",
+        "base": "wood_50",
+        "horizontal_panel": "wood_49"
+    },
+    "25_3f7__678": {
+        "horizontal_panel": "metal_14",
+        "base": "metal_20"
+    },
+    "25_3f8__678": {
+        "horizontal_panel": "wood_06",
+        "base": "wood_62"
+    },
+    "25_40c__678": {
+        "horizontal_panel": "metal_12",
+        "base": "metal_44"
+    },
+    "25_415__678": {
+        "horizontal_panel": "wood_24",
+        "base": "wood_46"
+    },
+    "25_41b__678": {
+        "horizontal_panel": "metal_17",
+        "base": "wood_22"
+    },
+    "25_420__678": {
+        "horizontal_panel": "metal_42",
+        "base": "metal_11"
+    },
+    "25_423__678": {
+        "horizontal_panel": "wood_55",
+        "base": "metal_22"
+    },
+    "25_429__678": {
+        "vertical_panel": "metal_56",
+        "base": "metal_44",
+        "horizontal_panel": "wood_61"
+    },
+    "25_430__678": {
+        "horizontal_panel": "wood_63",
+        "base": "wood_42"
+    },
+    "25_431__678": {
+        "horizontal_panel": "wood_09",
+        "base": "metal_05"
+    },
+    "25_44a__678": {
+        "horizontal_panel": "metal_60",
+        "base": "metal_14"
+    },
+    "25_44e__678": {
+        "horizontal_panel": "wood_01",
+        "base": "metal_12"
+    },
+    "25_45c__678": {
+        "horizontal_panel": "wood_29",
+        "base": "metal_65"
+    },
+    "25_469__678": {
+        "horizontal_panel": "wood_01",
+        "base": "wood_00"
+    },
+    "25_475__678": {
+        "base": "metal_19",
+        "horizontal_panel": "wood_32"
+    },
+    "26_00c__678": {
+        "body": "marble_25",
+        "lid": "granite_00",
+        "seat": "plastic_18"
+    },
+    "26_00e__678": {
+        "body": "granite_08",
+        "lid": "marble_00",
+        "seat": "plastic_07"
+    },
+    "26_012__678": {
+        "body": "marble_18",
+        "lid": "marble_07",
+        "seat": "plastic_11"
+    },
+    "26_013__678": {
+        "body": "marble_04",
+        "lid": "marble_14",
+        "seat": "plastic_10"
+    },
+    "26_014__678": {
+        "body": "marble_28",
+        "lid": "ceramic_03",
+        "seat": "plastic_19"
+    },
+    "26_016__678": {
+        "body": "marble_26",
+        "lid": "marble_22"
+    },
+    "26_017__678": {
+        "body": "ceramic_02",
+        "lid": "ceramic_04",
+        "seat": "plastic_14"
+    },
+    "26_019__678": {
+        "body": "ceramic_04",
+        "lid": "ceramic_04",
+        "seat": "plastic_07"
+    },
+    "26_01b__678": {
+        "body": "ceramic_00",
+        "lid": "ceramic_00",
+        "seat": "plastic_15"
+    },
+    "26_021__678": {
+        "body": "marble_21",
+        "lid": "ceramic_00",
+        "seat": "plastic_02"
+    },
+    "26_023__678": {
+        "body": "granite_10",
+        "lid": "ceramic_03",
+        "seat": "plastic_07"
+    },
+    "26_025__678": {
+        "body": "ceramic_03",
+        "lid": "ceramic_01",
+        "seat": "plastic_20"
+    },
+    "26_028__678": {
+        "body": "granite_09",
+        "lid": "granite_08",
+        "seat": "plastic_11"
+    },
+    "26_030__678": {
+        "body": "ceramic_04",
+        "lid": "granite_05",
+        "seat": "plastic_11"
+    },
+    "26_036__678": {
+        "body": "granite_00",
+        "lid": "marble_36",
+        "seat": "plastic_14"
+    },
+    "26_039__678": {
+        "body": "ceramic_05",
+        "lid": "granite_01",
+        "seat": "plastic_04"
+    },
+    "26_041__678": {
+        "body": "marble_09",
+        "lid": "marble_17",
+        "seat": "plastic_18"
+    },
+    "26_044__678": {
+        "body": "marble_35",
+        "lid": "marble_13",
+        "seat": "plastic_07"
+    },
+    "26_048__678": {
+        "body": "granite_05",
+        "lid": "ceramic_01",
+        "seat": "plastic_05"
+    },
+    "26_04d__678": {
+        "body": "marble_14",
+        "lid": "marble_11",
+        "seat": "plastic_04"
+    },
+    "26_04e__678": {
+        "body": "ceramic_03",
+        "lid": "ceramic_05",
+        "seat": "plastic_20"
+    },
+    "26_05e__678": {
+        "body": "ceramic_05",
+        "lid": "granite_00"
+    },
+    "26_05f__678": {
+        "body": "granite_02",
+        "lid": "granite_00",
+        "seat": "plastic_07"
+    },
+    "26_064__678": {
+        "body": "granite_07",
+        "lid": "marble_33",
+        "seat": "plastic_01"
+    },
+    "26_075__678": {
+        "body": "ceramic_04",
+        "lid": "granite_00",
+        "seat": "plastic_08"
+    },
+    "26_07c__678": {
+        "body": "ceramic_03",
+        "lid": "granite_02",
+        "seat": "plastic_19"
+    },
+    "26_085__678": {
+        "body": "marble_26",
+        "lid": "ceramic_05"
+    },
+    "26_08d__678": {
+        "body": "marble_27",
+        "lid": "granite_03",
+        "seat": "plastic_07"
+    },
+    "26_08f__678": {
+        "body": "marble_28",
+        "lid": "ceramic_04"
+    },
+    "26_091__678": {
+        "body": "marble_00",
+        "lid": "marble_10"
+    },
+    "26_09a__678": {
+        "body": "ceramic_00",
+        "lid": "marble_33"
+    },
+    "27_000__678": {
+        "handle": "metal_38",
+        "body": "plastic_18"
+    },
+    "27_00e__678": {
+        "handle": "plastic_20",
+        "body": "wood_11"
+    },
+    "27_015__678": {
+        "handle": "metal_37",
+        "body": "plastic_04"
+    },
+    "27_02b__678": {
+        "handle": "metal_41",
+        "body": "plastic_13"
+    },
+    "27_035__678": {
+        "handle": "plastic_10",
+        "body": "plastic_03"
+    },
+    "27_036__678": {
+        "handle": "wood_04",
+        "body": "plastic_00"
+    },
+    "27_03e__678": {
+        "handle": "metal_02",
+        "body": "plastic_05"
+    },
+    "27_045__678": {
+        "handle": "plastic_15",
+        "body": "metal_07"
+    },
+    "27_04e__678": {
+        "body": "wood_25",
+        "handle": "metal_19"
+    },
+    "27_051__678": {
+        "body": "wood_39",
+        "handle": "metal_65"
+    },
+    "27_056__678": {
+        "handle": "wood_57",
+        "body": "plastic_16"
+    },
+    "27_05f__678": {
+        "body": "wood_33",
+        "handle": "plastic_15"
+    },
+    "27_063__678": {
+        "handle": "wood_42",
+        "body": "wood_21"
+    },
+    "27_069__678": {
+        "handle": "wood_26",
+        "body": "plastic_18"
+    },
+    "27_06c__678": {
+        "handle": "plastic_04",
+        "body": "wood_31"
+    },
+    "27_081__678": {
+        "handle": "plastic_09",
+        "body": "metal_35"
+    },
+    "27_085__678": {
+        "handle": "metal_00",
+        "body": "metal_58"
+    },
+    "27_09a__678": {
+        "handle": "plastic_09",
+        "body": "wood_44"
+    },
+    "27_09d__678": {
+        "handle": "metal_18",
+        "body": "plastic_19"
+    },
+    "27_0a1__678": {
+        "handle": "wood_56",
+        "body": "metal_15"
+    },
+    "27_0ad__678": {
+        "handle": "wood_11",
+        "body": "wood_21"
+    },
+    "28_002__678": {
+        "handle": "wood_57",
+        "body": "wood_16",
+        "base": "metal_26"
+    },
+    "28_019__678": {
+        "body": "wood_33",
+        "handle": "metal_51",
+        "base": "wood_24"
+    },
+    "28_024__678": {
+        "body": "wood_16",
+        "handle": "wood_12",
+        "base": "wood_34"
+    },
+    "28_025__678": {
+        "body": "wood_26",
+        "base": "wood_34"
+    },
+    "28_028__678": {
+        "body": "metal_57",
+        "base": "metal_37"
+    },
+    "28_02f__678": {
+        "body": "wood_41",
+        "base": "wood_02"
+    },
+    "28_030__678": {
+        "body": "wood_15",
+        "handle": "wood_16",
+        "base": "metal_45"
+    },
+    "28_03a__678": {
+        "handle": "metal_29",
+        "body": "metal_41",
+        "base": "metal_57"
+    },
+    "28_03c__678": {
+        "body": "wood_22",
+        "base": "wood_23"
+    },
+    "28_049__678": {
+        "body": "wood_00",
+        "handle": "metal_62",
+        "base": "wood_03"
+    },
+    "28_05e__678": {
+        "body": "metal_21",
+        "base": "wood_41"
+    },
+    "28_061__678": {
+        "body": "wood_05",
+        "base": "wood_53"
+    },
+    "28_071__678": {
+        "handle": "metal_32",
+        "body": "wood_17",
+        "base": "wood_45"
+    },
+    "28_075__678": {
+        "body": "metal_41",
+        "base": "wood_04"
+    },
+    "28_077__678": {
+        "handle": "metal_04",
+        "body": "metal_03",
+        "base": "wood_07"
+    },
+    "28_099__678": {
+        "body": "wood_38",
+        "base": "wood_39"
+    },
+    "28_0a8__678": {
+        "body": "metal_37",
+        "handle": "wood_05",
+        "base": "wood_14"
+    },
+    "28_0a9__678": {
+        "handle": "wood_13",
+        "body": "metal_00",
+        "base": "wood_27"
+    },
+    "28_0c2__678": {
+        "body": "wood_48",
+        "base": "wood_57"
+    },
+    "28_0c4__678": {
+        "body": "wood_58",
+        "handle": "metal_45",
+        "base": "wood_21"
+    }
+}
