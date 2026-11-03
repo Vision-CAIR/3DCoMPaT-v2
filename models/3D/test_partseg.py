@@ -115,7 +115,7 @@ def main(args):
             num_part, shape_prior=shape_prior, normal_channel=args.normal
         ).cuda()
 
-    checkpoint = torch.load(str(experiment_dir) + "/checkpoints/best_model.pth")
+    checkpoint = torch.load(str(experiment_dir) + "/checkpoints/best_model.pth", weights_only=True)
     classifier.load_state_dict(checkpoint["model_state_dict"])
 
     with torch.no_grad():

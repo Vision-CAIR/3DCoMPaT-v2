@@ -230,7 +230,7 @@ def run_training(args):
 
         last_model = os.path.join(args.models_dir, all_models[-1])
 
-        checkpoint = torch.load(last_model)
+        checkpoint = torch.load(last_model, weights_only=True)
         print(
             "Loaded last checkpoint from [%s], with %0.2f train top-1 accuracy."
             % (last_model, checkpoint["top1_train_acc"])

@@ -196,7 +196,7 @@ def main(args):
         criterion = criterion.cuda()
 
     try:
-        checkpoint = torch.load(str(exp_dir) + "/checkpoints/best_model.pth")
+        checkpoint = torch.load(str(exp_dir) + "/checkpoints/best_model.pth", weights_only=True)
         start_epoch = checkpoint["epoch"]
         classifier.load_state_dict(checkpoint["model_state_dict"])
         log_string("Use pretrain model")

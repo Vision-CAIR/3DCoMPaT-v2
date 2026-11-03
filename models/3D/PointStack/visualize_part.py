@@ -36,7 +36,7 @@ val_dataloader = DataLoader(val_dataset, batch_size=1, shuffle=False, drop_last=
 
 # Build Network
 net = build_network(cfg)
-state_dict = torch.load(args.ckpt)
+state_dict = torch.load(args.ckpt, weights_only=True)
 epoch = state_dict['epoch']
 net.load_state_dict(state_dict['model_state_dict'])
 net = net.cuda()
