@@ -44,7 +44,7 @@ val_dataloader = DataLoader(val_dataset, batch_size=cfg.OPTIMIZER.BATCH_SIZE, sh
 
 # Build Network and Optimizer
 net = build_network(cfg)
-state_dict = torch.load(args.ckpt)
+state_dict = torch.load(args.ckpt, weights_only=True)
 epoch = state_dict['epoch']
 net.load_state_dict(state_dict['model_state_dict'])
 net = net.cuda()

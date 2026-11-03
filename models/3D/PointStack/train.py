@@ -57,7 +57,7 @@ val_dataloader = DataLoader(val_dataset, batch_size=cfg.OPTIMIZER.BATCH_SIZE, sh
 # Build Network and Optimizer
 net = build_network(cfg)
 if args.pretrained_ckpt is not None:
-    pretrained_state_dict = torch.load(args.pretrained_ckpt)['model_state_dict']
+    pretrained_state_dict = torch.load(args.pretrained_ckpt, weights_only=True)['model_state_dict']
     
     for k, v in net.state_dict().items():
         if (v.shape != pretrained_state_dict[k].shape):
